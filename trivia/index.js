@@ -6,6 +6,6 @@ middlewares = jsonServer.defaults();
 server.use(middlewares);
 server.use(router);
 
-server.listen(3022, function() {
-console.log("json-server started on port " + 3022);
+server.listen(80, function() {
+console.log("json-server started on port " + 80);
 });
