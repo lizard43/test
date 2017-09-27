@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "trivia/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node trivia/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizard43/test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/lizard43/wifflestick#readme",
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}
