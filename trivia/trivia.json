@@ -919,10 +919,10 @@
       "category": "music"
     },
     {
-      "id": 155,
-      "question": "My Name is Mud was on the Pork Soda album released in 1993 by what group",
+      "question": "'My Name is Mud' was on the Pork Soda album, released in 1993 by what group?",
       "answer": "Primus",
-      "category": "music"
+      "category": "",
+      "id": 155
     },
     {
       "id": 156,
@@ -2806,6 +2806,120 @@
       "question": "Time magazine named what as the 'Man of the Year' in 1982?",
       "answer": "The Computer",
       "id": 471
+    },
+    {
+      "question": "The Solheim Cup is the women's equivalent of which famous sporting event?",
+      "answer": "The Ryder Cup",
+      "category": "sports",
+      "id": 472
+    },
+    {
+      "question": "A one-humped camel belongs to what camel species?",
+      "answer": "Dromedary",
+      "category": "animals",
+      "id": 473
+    },
+    {
+      "question": "In which US state did chilli con carne originate?",
+      "answer": "Texas",
+      "category": "food",
+      "id": 474
+    },
+    {
+      "question": "What is a shark's skeleton made of?",
+      "answer": "Cartilage",
+      "category": "animals",
+      "id": 475
+    },
+    {
+      "question": "In 2000, two movies came out which revolved around manned voyages to the planet Mars. The first was Brian De Palma's \"Mission to Mars\". What was the name of the second movie?",
+      "answer": "Red Planet",
+      "category": "movies",
+      "id": 476
+    },
+    {
+      "question": "How long is the le Mans endurance motor race?",
+      "answer": "24 hours",
+      "category": "autos",
+      "id": 477
+    },
+    {
+      "question": "In which James Bond film do we see 007 jump a river while doing a 360 degree barrel roll?",
+      "answer": "The Man with the Golden Gun",
+      "category": "movies",
+      "id": 478
+    },
+    {
+      "question": "What kind of dog is Scooby Doo?",
+      "answer": "Great dane",
+      "category": "tv",
+      "id": 479
+    },
+    {
+      "question": "America spends approximately how much each year on beer?",
+      "answer": "$106 Billion",
+      "category": "food",
+      "id": 480
+    },
+    {
+      "question": "In which film did Roger Moore first appear as James Bond",
+      "answer": "Live and let die",
+      "category": "movies",
+      "id": 481
+    },
+    {
+      "question": "In what year did the Civil War end?",
+      "answer": "1865",
+      "category": "history",
+      "id": 482
+    },
+    {
+      "question": "What bird can fly backwards?",
+      "answer": "Humming Bird",
+      "category": "animals",
+      "id": 483
+    },
+    {
+      "question": "Who wrote 'The Time Machine'?",
+      "answer": "H.G. Wells",
+      "category": "arts",
+      "id": 484
+    },
+    {
+      "question": "\"Janie's Got a Gun\" was on their 1989 album \"Pump\"",
+      "answer": "Aerosmith",
+      "category": "music",
+      "id": 485
+    },
+    {
+      "question": "A checkered flag waving on the left, crossing with another waving red flag on the right, containing a fleur-de-lis and a bow tie. What car does this badge belong to?",
+      "answer": "Chevrolet Corvette ",
+      "category": "autos",
+      "id": 486
+    },
+    {
+      "question": "What is used in NASCAR tires instead of air?",
+      "answer": "Nitrogen",
+      "category": "autos",
+      "id": 487
+    },
+    {
+      "question": "In 1986 what boxer became the youngest ever World Heavyweight Champion?",
+      "answer": "Mike Tyson",
+      "category": "sports",
+      "id": 488
+    },
+    {
+      "question": "Who was Barney Rubble's best friend?",
+      "answer": "Fred Flintstone",
+      "category": "tv",
+      "id": 489
+    },
+    {
+      "question": "Which sport takes place in a circle 4.55m in diameter?",
+      "answer": "Sumo Wrestling",
+      "category": "sports",
+      "id": 490
     }
   ]
 }
