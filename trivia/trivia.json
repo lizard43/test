@@ -2440,6 +2440,372 @@
       "question": "Which famous hollywood actress was convicted of shoplifting in 2002?",
       "answer": "Winona Ryder",
       "id": 410
+    },
+    {
+      "category": "science",
+      "question": "Hedera Helix is better known by what name",
+      "answer": "Ivy",
+      "id": 411
+    },
+    {
+      "category": "arts",
+      "question": "What philosopher said that, dues to the existence of the soul previous to the actual birth, knowing something was simply 'recalling' it?",
+      "answer": "Pluto",
+      "id": 412
+    },
+    {
+      "category": "geography",
+      "question": "After Russia and Kazakhstan, what is the third largest of the former soviet replublics",
+      "answer": "Ukraine",
+      "id": 413
+    },
+    {
+      "category": "sports",
+      "question": "What piece of sporting equipment has a maximum length of 42 inches and a maximum thickness of 2.61 inches?",
+      "answer": "a baseball bat",
+      "id": 414
+    },
+    {
+      "category": "arts",
+      "question": "In 10,000 leagues under the sea, what ship did captain nemo travel in",
+      "answer": "Nautilus",
+      "id": 415
+    },
+    {
+      "category": "geography",
+      "question": "From whom did the U.S. buy the Virgin Islands",
+      "answer": "Denmark",
+      "id": 416
+    },
+    {
+      "category": "general",
+      "question": "The word bank comes from the Italian Banco - Literally meaning what",
+      "answer": "Bench - where moneylender sat",
+      "id": 417
+    },
+    {
+      "category": "autos",
+      "question": "The model T Ford was produced from 1909 until 1927. Which revolutionary innovation was introduced in 1913",
+      "answer": "Mass Production",
+      "id": 418
+    },
+    {
+      "category": "food",
+      "question": "If a sparkling wine is labeled as 'brut' How will it taste",
+      "answer": "Dry",
+      "id": 419
+    },
+    {
+      "category": "science",
+      "question": "The main circle and trilithons at stonehenge are built of what rock",
+      "answer": "Sandstone",
+      "id": 420
+    },
+    {
+      "category": "geography",
+      "question": "Which sauce is named after a river and state in mexico?",
+      "answer": "Tabasco",
+      "id": 421
+    },
+    {
+      "category": "movies",
+      "question": "What's the name of the summer camp in the 'Friday the 13th' movies?",
+      "answer": "Camp Crystal Lake",
+      "id": 422
+    },
+    {
+      "category": "science",
+      "question": "An integer that is greater than 1 and is divisible only by itself and 1 is known as a(n)",
+      "answer": "Prime",
+      "id": 423
+    },
+    {
+      "category": "movies",
+      "question": "The two_minute storm in the opening of what 1989 Disney film took ten special effects artists over a year to complete.",
+      "answer": "The Little Mermaid",
+      "id": 424
+    },
+    {
+      "category": "science",
+      "question": "How many men have walked on the moon",
+      "answer": "12",
+      "id": 425
+    },
+    {
+      "category": "arts",
+      "question": "Brahma, Vishnu & Shiva are Gods in which Religion",
+      "answer": "Hindu",
+      "id": 426
+    },
+    {
+      "category": "food",
+      "question": "From which fruit is Grenadine made",
+      "answer": "Pomegranate",
+      "id": 427
+    },
+    {
+      "category": "animal",
+      "question": "Cashmere comes from a(n) ______",
+      "answer": "goat",
+      "id": 428
+    },
+    {
+      "category": "movies",
+      "question": "The credits on all Bond films finish with 4 words. What are they?",
+      "answer": "James Bond Will Return",
+      "id": 429
+    },
+    {
+      "category": "medicine",
+      "question": "A herb or drug described as 'diaphoretic', causes what condition",
+      "answer": "perspiration",
+      "id": 430
+    },
+    {
+      "category": "history",
+      "question": "Who killed Jesse James?",
+      "answer": "Bob Ford",
+      "id": 431
+    },
+    {
+      "category": "history",
+      "question": "The worlds first opened in Los Angles April 2nd 1902 - What",
+      "answer": "Motion Picture theater",
+      "id": 432
+    },
+    {
+      "category": "movies",
+      "question": "In 'Harry Potter and the Goblet of Fire', what was 'Unknowingly Given' ingredient was needed to resurrect Voldemort?",
+      "answer": "Bone of the Father",
+      "id": 433
+    },
+    {
+      "category": "animal",
+      "question": "What is a young goose called?",
+      "answer": "Gosling",
+      "id": 434
+    },
+    {
+      "category": "tv",
+      "question": "'Home Improvement' was a popular sitcom in the 90's. What was the name of Tim Taylor's fictitious TV show?",
+      "answer": "'Tool Time'",
+      "id": 435
+    },
+    {
+      "category": "sports",
+      "question": "Klondike is the most popular form of this card game.",
+      "answer": "Solitaire",
+      "id": 436
+    },
+    {
+      "category": "movies",
+      "question": "Bruce Willis spends Christmas fighting terrorists in the Nakatomi Plaza. What movie is this?",
+      "answer": "Die Hard",
+      "id": 437
+    },
+    {
+      "category": "movies",
+      "question": "What phrase is associated with this hand gesture?",
+      "answer": "Live long and prosper",
+      "id": 438
+    },
+    {
+      "category": "sports",
+      "question": "How many medals did the USSR win at the 1984 olympics?",
+      "answer": "None",
+      "id": 439
+    },
+    {
+      "category": "animals",
+      "question": "Rats, mice, beavers, and squirrels are all what order of mammal?",
+      "answer": "Rodent",
+      "id": 440
+    },
+    {
+      "category": "movies",
+      "question": "What famous animal character called \\\"Skull Island\\\" home?",
+      "answer": "King Kong",
+      "id": 441
+    },
+    {
+      "category": "movies",
+      "question": "What was Rocky Balboa's nickname in the ring?",
+      "answer": "The Italian Stallion",
+      "id": 442
+    },
+    {
+      "category": "food",
+      "question": "Fruit flavor of a traditional crepe suzette?",
+      "answer": "orange",
+      "id": 443
+    },
+    {
+      "category": "movies",
+      "question": "Which group sang the theme song to the James Bond film 'The Living Daylights'?",
+      "answer": "A-Ha",
+      "id": 444
+    },
+    {
+      "category": "history",
+      "question": "Who, on August 1st 1944, made her last entry into her diary?",
+      "answer": "Anne Frank. Three days later Anne and her family were arrested.",
+      "id": 445
+    },
+    {
+      "category": "movies",
+      "question": "The love song from 'Top Gun' was a hit for what European sounding group?",
+      "answer": "Berlin",
+      "id": 446
+    },
+    {
+      "category": "animals",
+      "question": "Mice, whales, elephants, giraffes, and humans all have seven what?",
+      "answer": "Neck vertebra",
+      "id": 447
+    },
+    {
+      "category": "music",
+      "question": "Which spice girl is missing from this picture that's missing baby spice?",
+      "answer": "baby spice",
+      "id": 448
+    },
+    {
+      "category": "music",
+      "question": "Which spice girl is missing from this picture that's missing baby spice?",
+      "answer": "baby spice aka Emma Bunton",
+      "id": 449
+    },
+    {
+      "category": "science",
+      "question": "What does the symbol CL stand for on the periodic table?",
+      "answer": "Chlorine",
+      "id": 450
+    },
+    {
+      "category": "movies",
+      "question": "Captain Hook, Tiger Lily, and Tinker Bell are characters in what story?",
+      "answer": "Peter Pan",
+      "id": 451
+    },
+    {
+      "category": "movies",
+      "question": "In 'Die Hard', what was the name of the terrorist organization Hans Gruber read about in Time magazine?",
+      "answer": "Asian Dawn",
+      "id": 452
+    },
+    {
+      "category": "general",
+      "question": "What name is given to the generation of people born in the USA between 1946 and 1964?",
+      "answer": "Baby Boomers",
+      "id": 453
+    },
+    {
+      "category": "sports",
+      "question": "Who was stabbed on court at Wimbledon by a fan of chief rival?",
+      "answer": "Monica Seles",
+      "id": 454
+    },
+    {
+      "category": "geography",
+      "question": "In which continent would you find the Mekong River",
+      "answer": "Asia",
+      "id": 455
+    },
+    {
+      "category": "arts",
+      "question": "What series was voted the best fiction of the 20th century?",
+      "answer": "Lord of the Rings",
+      "id": 456
+    },
+    {
+      "category": "animal",
+      "question": "What is the only female animal that has antlers?",
+      "answer": "Caribou / Rain Deer",
+      "id": 457
+    },
+    {
+      "category": "music",
+      "question": "As a youth in Liverpool, John Lennon and friends played in a garden-like location that shares the title of what Beatles song?",
+      "answer": "Strawberry Fields (Forever)",
+      "id": 458
+    },
+    {
+      "category": "arts",
+      "question": "Who wrote the long religious epic, Paradise Lost?",
+      "answer": "John Milton",
+      "id": 459
+    },
+    {
+      "category": "science",
+      "question": "What does hypodermic literally mean?",
+      "answer": "Under skin",
+      "id": 460
+    },
+    {
+      "category": "movies",
+      "question": "Which James Bond movie was the last to use a title actually written by Ian Fleming?",
+      "answer": "The Living Daylights",
+      "id": 461
+    },
+    {
+      "category": "arts",
+      "question": "Who wrote 'Gone with the Wind'?",
+      "answer": "Margaret Mitchell",
+      "id": 462
+    },
+    {
+      "category": "general",
+      "question": "If you kiss someone under the mistletoe, what should you then remove?",
+      "answer": "One of the berries (for good luck)",
+      "id": 463
+    },
+    {
+      "category": "food",
+      "question": "What is sake made from?",
+      "answer": "fermented rice",
+      "id": 464
+    },
+    {
+      "category": "animal",
+      "question": "What is the term for a full grown female horse?",
+      "answer": "Mare",
+      "id": 465
+    },
+    {
+      "category": "movies",
+      "question": "What gun does James Bond traditionally use?",
+      "answer": "A Walther PPK",
+      "id": 466
+    },
+    {
+      "category": "tv",
+      "question": "In the TV series 'The Six Million Dollar Man', what was the name of the technology used to rebuild Steve Austin?",
+      "answer": "Bionics",
+      "id": 467
+    },
+    {
+      "category": "science",
+      "question": "A depilatory is a substance used to for removing __________.",
+      "answer": "Hair",
+      "id": 468
+    },
+    {
+      "category": "geography",
+      "question": "What do you call a group of trees and shrubs with a thick root system, that live in a coastal inter-tidal area?",
+      "answer": "Mangrove",
+      "id": 469
+    },
+    {
+      "category": "sports",
+      "question": "How many tournaments make up the Grand Slam in golf?",
+      "answer": "4: Masters Tournament, U.S. Open, The (British) Open Championship, PGA Championship",
+      "id": 470
+    },
+    {
+      "category": "arts",
+      "question": "Time magazine named what as the 'Man of the Year' in 1982?",
+      "answer": "The Computer",
+      "id": 471
     }
   ]
 }
