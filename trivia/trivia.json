@@ -331,6 +331,12 @@
       "category": "food"
     },
     {
+      "id": 56,
+      "question": "Who made Pinocchio",
+      "answer": "Geppetto",
+      "category": "arts"
+    },
+    {
       "id": 57,
       "question": "To what city do Muslims make pilgrimage?",
       "answer": "Mecca",
@@ -1956,7 +1962,7 @@
       "id": 329
     },
     {
-      "category": "Jesse Owen",
+      "category": "sports",
       "question": "Which black athelete's successes at the Berlin Olympics caused Hitler to storm out of the stadium?",
       "answer": "Jesse Owens",
       "id": 330
@@ -2064,7 +2070,7 @@
       "id": 347
     },
     {
-      "question": "What does the acronym  'S.A.M.' mean in SAM missiles>",
+      "question": "What does the acronym  'S.A.M.' mean in SAM missiles?",
       "answer": "Surface to Air Missiles",
       "category": "science",
       "id": 348
@@ -2190,7 +2196,7 @@
       "id": 368
     },
     {
-      "question": "Played by Peter Falk, name this characters Television series.<br><div class=\"questNum\">Answer:</div><div class=\"question\">Columbo</div><img src=\"/host/question_images/1461182001.jpg\" class=\"identifyImage\">",
+      "question": "Played by Peter Falk, name this characters Television series.",
       "answer": "Columbo",
       "category": "tv",
       "id": 369
@@ -2246,13 +2252,13 @@
     {
       "question": "How many US states border an ocean?",
       "answer": "23",
-      "category": "",
+      "category": "geography",
       "id": 378
     },
     {
       "question": "What is the capital of Mexico ?",
       "answer": "Mexico City",
-      "category": "",
+      "category": "geography",
       "id": 379
     },
     {
@@ -2920,6 +2926,24 @@
       "answer": "Sumo Wrestling",
       "category": "sports",
       "id": 490
+    },
+    {
+      "question": "What is the name of the Pinocchio book?",
+      "answer": "The Adventures of Pinocchio, written in 1883 by Italian writer Carlo Collodi",
+      "category": "arts",
+      "id": 491
+    },
+    {
+      "question": "What year was the Disney movie Pinocchio?",
+      "answer": "Pinocchio is a 1940 American animated musical fantasy film produced by Walt Disney Productions and based on the Italian children's novel The Adventures of Pinocchio by Carlo Collodi. It was the second animated feature film produced by Disney, made after the success of Snow White and the Seven Dwarfs (1937)",
+      "category": "movies",
+      "id": 492
+    },
+    {
+      "question": "How did Pinocchio come to life?",
+      "answer": "Geppetto makes a wish on a star that Pinocchio be a real boy. During the night, a Blue Fairy visits the workshop and brings Pinocchio to life, although he still remains a puppet. She informs him that if he proves himself brave, truthful, and unselfish, he will become a real boy, and assigns Jiminy Cricket to be his conscience",
+      "category": "movies",
+      "id": 493
     }
   ]
 }
