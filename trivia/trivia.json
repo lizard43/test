@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "question": "An Apiary holds",
+      "question": "The An Apiary holds",
       "answer": "bees",
       "category": "animal"
     },
@@ -261,7 +261,7 @@
     {
       "id": 44,
       "question": "how many pints is a firkin",
-      "answer": "86.4",
+      "answer": "86.4 us pints. 72 uk pints",
       "category": "food"
     },
     {
@@ -392,7 +392,7 @@
     },
     {
       "id": 66,
-      "question": "What is the piece of glass that separates light into the visible spectrum?",
+      "question": "A piece of glass that separates light into the visible spectrum is called a _____.",
       "answer": "prism",
       "category": "general"
     },
@@ -1862,7 +1862,7 @@
     {
       "id": 313,
       "question": "According to National Geographic, what's the most toxic snake in the world?",
-      "answer": "The Indian Taipan. It packs enough venom to kill a hundred people in one bite.",
+      "answer": "The Inland Taipan. It packs enough venom to kill a hundred people in one bite.",
       "category": "animal"
     },
     {
@@ -2070,7 +2070,7 @@
       "id": 347
     },
     {
-      "question": "What does the acronym  'S.A.M.' mean in SAM missiles?",
+      "question": "What does the acronym 'S.A.M.' mean in SAM missiles?",
       "answer": "Surface to Air Missiles",
       "category": "science",
       "id": 348
@@ -2944,6 +2944,114 @@
       "answer": "Geppetto makes a wish on a star that Pinocchio be a real boy. During the night, a Blue Fairy visits the workshop and brings Pinocchio to life, although he still remains a puppet. She informs him that if he proves himself brave, truthful, and unselfish, he will become a real boy, and assigns Jiminy Cricket to be his conscience",
       "category": "movies",
       "id": 493
+    },
+    {
+      "question": "Which group sang the song \"All The Small Things\"?",
+      "answer": "Blink 182",
+      "category": "music",
+      "id": 494
+    },
+    {
+      "question": "What natural phenomena are measured by the Richter scale?",
+      "answer": "Earthquakes",
+      "category": "science",
+      "id": 495
+    },
+    {
+      "question": "Cocktails: Bourbon, sugar, water and mint leaves make what?",
+      "answer": "Mint julep",
+      "category": "food",
+      "id": 496
+    },
+    {
+      "question": "Who directed the movie \"Blade Runner\"?",
+      "answer": "Ridley Scott. He also directed Gladiator and The Martian. Blade Runner 2049 directed by Denis Villeneuve",
+      "category": "movies",
+      "id": 497
+    },
+    {
+      "question": "What's the name of a curved line between any two points on a circle?",
+      "answer": "Arc",
+      "category": "science",
+      "id": 498
+    },
+    {
+      "question": "Which of the characters from 'The Wonderful Wizard of Oz' didn't have a brain?",
+      "answer": "Scarecrow",
+      "category": "movies",
+      "id": 499
+    },
+    {
+      "question": "DD stands for this.",
+      "answer": "Dungeons and dragons",
+      "category": "games",
+      "id": 500
+    },
+    {
+      "question": "In June of 1997, Harry Potter and The Philosopher's Stone was released in the UK. How many copies were initially printed?",
+      "answer": "500, 200 went stores and 300 to school libraries ",
+      "category": "arts",
+      "id": 501
+    },
+    {
+      "question": "If wine is made from grapes what is Tequila made from",
+      "answer": "Agave",
+      "category": "food",
+      "id": 502
+    },
+    {
+      "question": "An internet picture of a dress baffled people in early 2015 by being Blue/black or: Red/pink, Green/orange, White/gold, Yellow/copper?",
+      "answer": "White/gold",
+      "category": "general",
+      "id": 503
+    },
+    {
+      "question": "A Baseball travels 9 percent faster in which US city",
+      "answer": "Denver - thinner air",
+      "category": "sports",
+      "id": 504
+    },
+    {
+      "question": "A __________ helps to set and maintain your tempo while playing.",
+      "answer": "Metronome",
+      "category": "music",
+      "id": 505
+    },
+    {
+      "question": "Baseball Teams: The Miami ______?",
+      "answer": "Marlins",
+      "category": "sports",
+      "id": 506
+    },
+    {
+      "question": "In the children's tv series 'Sesame Street', what two characters were roomates?",
+      "answer": "Bert and Ernie",
+      "category": "tv",
+      "id": 507
+    },
+    {
+      "question": "If you're drinking Red Stripe lager what country might you be in?",
+      "answer": "Jamaica",
+      "category": "food",
+      "id": 508
+    },
+    {
+      "question": "What direction does the Nile River flow?",
+      "answer": "North",
+      "category": "geography",
+      "id": 509
+    },
+    {
+      "question": "What is the year 2017 in Roman numerals?",
+      "answer": "MMXVII",
+      "category": "science",
+      "id": 510
+    },
+    {
+      "question": "Which country hosted the Olympics in 2008?",
+      "answer": " China",
+      "category": "sports",
+      "id": 511
     }
   ]
 }
