@@ -236,7 +236,7 @@
     },
     {
       "id": 40,
-      "question": "Marzipan is made from ",
+      "question": "what kind of nuts are used in Marzipan?",
       "answer": "Almonds",
       "category": "food"
     },
@@ -729,7 +729,7 @@
     {
       "id": 122,
       "question": "Who turned down original Superman role",
-      "answer": "Warren Beatty",
+      "answer": "Robert Redford",
       "category": "movies"
     },
     {
@@ -2492,7 +2492,7 @@
     {
       "category": "autos",
       "question": "The model T Ford was produced from 1909 until 1927. Which revolutionary innovation was introduced in 1913",
-      "answer": "Mass Production",
+      "answer": "Assembly Line which enables Mass Production",
       "id": 418
     },
     {
@@ -2629,7 +2629,7 @@
     },
     {
       "category": "movies",
-      "question": "What famous animal character called \\\"Skull Island\\\" home?",
+      "question": "What famous animal character called \"Skull Island\" home?",
       "answer": "King Kong",
       "id": 441
     },
@@ -3052,6 +3052,198 @@
       "answer": " China",
       "category": "sports",
       "id": 511
+    },
+    {
+      "question": "What vegetable did mark twain describe as 'cabbage with a college education'?",
+      "answer": "cauliflower",
+      "category": "food",
+      "id": 512
+    },
+    {
+      "question": "In 'santa claus is coming to town', what was Mrs Claus' job when she met Kris?",
+      "answer": "school teacher",
+      "category": "arts",
+      "id": 513
+    },
+    {
+      "question": "What artist was nicknamed 'Jack the Dripper'?",
+      "answer": "Jackson Pollock",
+      "category": "arts",
+      "id": 514
+    },
+    {
+      "question": "2.7182 is the approximation for which variable used in logarithms?",
+      "answer": "e",
+      "category": "math",
+      "id": 515
+    },
+    {
+      "question": "After five years as \"suzanne sugarbaker\", Delta Burke left what hit show?",
+      "answer": "Designing Women",
+      "category": "tv",
+      "id": 516
+    },
+    {
+      "question": "On what continent is the Kalahari desert?",
+      "answer": "africa",
+      "category": "geography",
+      "id": 517
+    },
+    {
+      "question": "Who was the original lead singer in the progressive rock band genesis?",
+      "answer": "Peter Gabriel",
+      "category": "music",
+      "id": 518
+    },
+    {
+      "question": "What year were rear-view mirrors standard equipment on production cars?",
+      "answer": "1914",
+      "category": "autos",
+      "id": 519
+    },
+    {
+      "question": "Astronaut John Glenn ate the first meal in space when he squeezed what out of a tube?",
+      "answer": "applesauce",
+      "category": "food",
+      "id": 520
+    },
+    {
+      "question": "What animal's height is normally measured in \"hands\"?",
+      "answer": "horse",
+      "category": "animals",
+      "id": 521
+    },
+    {
+      "question": "What did hannibal lecter like to eat with liver?",
+      "answer": "fava beans",
+      "category": "food",
+      "id": 522
+    },
+    {
+      "question": "In the movie 'blade runner', what is the name of the corporation that created the replicants?",
+      "answer": "the tyrell corporation",
+      "category": "movies",
+      "id": 523
+    },
+    {
+      "question": "In regard to food what do the initials 'GMO' actually stand for?",
+      "answer": "Genetically Modified Organism",
+      "category": "food",
+      "id": 524
+    },
+    {
+      "question": "In Monty Python's 'The Meaning of Life', what was Mr Creosote's very last course?",
+      "answer": "A wafer thin mint",
+      "category": "movies",
+      "id": 525
+    },
+    {
+      "question": "What color signifies a difficult slope in skiing?",
+      "answer": "black",
+      "category": "sports",
+      "id": 526
+    },
+    {
+      "question": "Who played clyde to faye dunaway's bonnie?",
+      "answer": "warren beatty",
+      "category": "movies",
+      "id": 527
+    },
+    {
+      "question": "What is the chemical symbol for copper?",
+      "answer": "cu",
+      "category": "science",
+      "id": 528
+    },
+    {
+      "question": "What is the common name for acetaminaphen?",
+      "answer": "tylenol",
+      "category": "medicine",
+      "id": 529
+    },
+    {
+      "question": "Gnocchi is a food from Italy. What is it>",
+      "answer": "Small dumplings made of potato, flour, semolina",
+      "category": "food",
+      "id": 530
+    },
+    {
+      "question": "What is the spiral galaxy nearest ours?",
+      "answer": "Andromeda",
+      "category": "science",
+      "id": 531
+    },
+    {
+      "question": "What was the code name for the battle of normandy, that began with the d-day invasion?",
+      "answer": "operation overlord",
+      "category": "history",
+      "id": 532
+    },
+    {
+      "question": "In 'blade runner', what was harrison ford's character's name?",
+      "answer": "rick deckard",
+      "category": "movies",
+      "id": 533
+    },
+    {
+      "question": "In what year did the 'big ben' first chime the hour?",
+      "answer": "1859",
+      "category": "history",
+      "id": 534
+    },
+    {
+      "question": "Marshall Bruce Mathers III is better known as who?",
+      "answer": "Eminem",
+      "category": "music",
+      "id": 535
+    },
+    {
+      "question": "Poppin' Fresh served as the mascot for which onternational food brand?",
+      "answer": "Pillsbury Dough Co",
+      "category": "food",
+      "id": 536
+    },
+    {
+      "question": "Followers of the unification church are called what?",
+      "answer": "moonies",
+      "category": "religion",
+      "id": 537
+    },
+    {
+      "question": "Who plays captain jean-luc picard in 'star trek the next generation'?",
+      "answer": "patrick stewart",
+      "category": "tv",
+      "id": 538
+    },
+    {
+      "question": "In Skiing terms, what are large snow bumps known as?",
+      "answer": "moguls",
+      "category": "sports",
+      "id": 539
+    },
+    {
+      "question": "Firefox, opera, chrome, safari, and explorer are types of what?",
+      "answer": "Web browsers",
+      "category": "science",
+      "id": 540
+    },
+    {
+      "question": "What ocean was amelia earhart flying over when she disappeared?",
+      "answer": "the pacific",
+      "category": "history",
+      "id": 541
+    },
+    {
+      "question": "What does it mean for a bowler to score a turkey?",
+      "answer": "three strikes in a row.",
+      "category": "sports",
+      "id": 542
+    },
+    {
+      "question": "who painted the sistine chapel?",
+      "answer": "michelangelo",
+      "category": "arts",
+      "id": 543
     }
   ]
 }
