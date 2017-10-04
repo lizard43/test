@@ -3162,7 +3162,7 @@
       "id": 529
     },
     {
-      "question": "Gnocchi is a food from Italy. What is it>",
+      "question": "Gnocchi is a food from Italy. What is it?",
       "answer": "Small dumplings made of potato, flour, semolina",
       "category": "food",
       "id": 530
@@ -3244,6 +3244,42 @@
       "answer": "michelangelo",
       "category": "arts",
       "id": 543
+    },
+    {
+      "question": "what golden yellow gem sounds like a fruit related to lemons",
+      "answer": "citrine",
+      "category": "arts",
+      "id": 544
+    },
+    {
+      "question": "\"He's so fine\", \"One fine day\" and \"a love so fine\" where hits for what fine group ",
+      "answer": "the chiffons",
+      "category": "music",
+      "id": 545
+    },
+    {
+      "question": "heartsbane, longclaw, and oathkeeper are all this type of sword",
+      "answer": "valrian steel",
+      "category": "tv",
+      "id": 546
+    },
+    {
+      "question": "From 1989 to 1994, how many winston cup races did Dale Earnhardt win while driving the chevy lumina?",
+      "answer": "28",
+      "category": "autos",
+      "id": 547
+    },
+    {
+      "question": "what is the average number of grapes needed to produced a bottle of wine?",
+      "answer": "600",
+      "category": "food",
+      "id": 548
+    },
+    {
+      "question": "\"It was greek to me\" comes from what shakespear play? ",
+      "answer": "Julius Ceasar",
+      "category": "arts",
+      "id": 549
     }
   ]
 }
