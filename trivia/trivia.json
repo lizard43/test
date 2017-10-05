@@ -668,7 +668,7 @@
     },
     {
       "id": 112,
-      "question": "In March 1785 what future president succeeded Ben Franklin as Minister to France",
+      "question": "In March 1785, what future president succeeded Ben Franklin as Minister to France",
       "answer": "Thomas Jefferson",
       "category": "history"
     },
@@ -3276,10 +3276,370 @@
       "id": 548
     },
     {
-      "question": "\"It was greek to me\" comes from what shakespear play? ",
+      "question": "\"It was greek to me\" comes from what shakespear play?",
       "answer": "Julius Ceasar",
       "category": "arts",
       "id": 549
+    },
+    {
+      "question": "In terms of population which is the largest city in the EU, not to be it's country's captital city?",
+      "answer": "hamburg",
+      "category": "geography",
+      "id": 550
+    },
+    {
+      "question": "In the movie \"office space\", who was peter's neighbor?",
+      "answer": "lawrence",
+      "category": "movies",
+      "id": 551
+    },
+    {
+      "question": "carl and the passions changed the band's name to what?",
+      "answer": "beach boys",
+      "category": "music",
+      "id": 552
+    },
+    {
+      "question": "who was winnie the pooh's neighbour?",
+      "answer": "piglet",
+      "category": "arts",
+      "id": 553
+    },
+    {
+      "question": "In 'Dawson's Creek', who does james van der beek play?",
+      "answer": "dawson leary",
+      "category": "tv",
+      "id": 554
+    },
+    {
+      "question": "In which city (not country) were the 2000 summer olympics held?",
+      "answer": "sydney",
+      "category": "sports",
+      "id": 555
+    },
+    {
+      "question": "In fiction her maiden name was lily evans but who is her world famous offspring",
+      "answer": "harry potter",
+      "category": "arts",
+      "id": 556
+    },
+    {
+      "question": "What color is art and literature in the standard edition of 'trivial pursuit'?",
+      "answer": "brown",
+      "category": "sports",
+      "id": 557
+    },
+    {
+      "question": "Unlike other oranges, what does a navel orange not have?",
+      "answer": "seeds",
+      "category": "food",
+      "id": 558
+    },
+    {
+      "question": "Saul Goldman is a character from 'breaking bad' and 'better call saul'. What is the character's birth name?",
+      "answer": "james jimmy mcgill",
+      "category": "tv",
+      "id": 559
+    },
+    {
+      "question": "in fresh prince of bel-air what was the butlers name?",
+      "answer": "gefforey",
+      "category": "tv",
+      "id": 560
+    },
+    {
+      "question": "according to nba rules how long does a player have after catching the ball to shoot a free throw?",
+      "answer": "10 seconds",
+      "category": "sports",
+      "id": 561
+    },
+    {
+      "question": "What is the lifespan of a replicate in 'blade runner'",
+      "answer": "4 years",
+      "category": "movies",
+      "id": 562
+    },
+    {
+      "question": "John Henry Deutchendorf famous as who (both names)",
+      "answer": "John Denver",
+      "category": "music",
+      "id": 563
+    },
+    {
+      "question": "what is the world's fastest animal (air, land, or water)?",
+      "answer": "the perigrine falcon which can reach speeds of 240 m/h.",
+      "category": "animals",
+      "id": 564
+    },
+    {
+      "question": "how were the camels carrying aabdul kassem ismael's library trained to walk?",
+      "answer": "in alphabetical order",
+      "category": "arts",
+      "id": 565
+    },
+    {
+      "question": "in pulp fiction, what are vincent and jules delivering to marcellus?",
+      "answer": "briefcase",
+      "category": "movies",
+      "id": 566
+    },
+    {
+      "question": "What kitchen appliance was patented by radar engineer percy spencer in 1945?",
+      "answer": "microwave oven",
+      "category": "history",
+      "id": 567
+    },
+    {
+      "question": "after leaving '10000 maniacs', who released her first solo album 'tiger lily' in 1995",
+      "answer": "natalie merchant",
+      "category": "music",
+      "id": 568
+    },
+    {
+      "question": "this word is a palindrome, that means having no part higher than another.",
+      "answer": "level",
+      "category": "arts",
+      "id": 569
+    },
+    {
+      "question": "\"torchwoord\" is a anagram and a spin-off of what popular british sc-fi series?",
+      "answer": "doctor who",
+      "category": "tv",
+      "id": 570
+    },
+    {
+      "question": "basketball: the denver ____________",
+      "answer": "nuggets",
+      "category": "sports",
+      "id": 571
+    },
+    {
+      "question": "what is the head waiter at a french restaraunt called?",
+      "answer": "maitre d' or maitre d' hotel",
+      "category": "food",
+      "id": 572
+    },
+    {
+      "question": "in the monty python parody 'search for the holy grail' what was the name of the enchanter",
+      "answer": "tim",
+      "category": "movies",
+      "id": 573
+    },
+    {
+      "question": "which us state capital is known as the 'mile high city' because of its elevation above sea level?",
+      "answer": "denver",
+      "category": "geography",
+      "id": 574
+    },
+    {
+      "question": "what is the capital of canada?",
+      "answer": "ottawa",
+      "category": "geography",
+      "id": 575
+    },
+    {
+      "question": "a person 100 or more years old",
+      "answer": "centenarian",
+      "category": "general",
+      "id": 576
+    },
+    {
+      "question": "'blade runner' is based on the short story 'do androids dream of electric sheep' by who?",
+      "answer": "philip k. dick",
+      "category": "moi=vies",
+      "id": 577
+    },
+    {
+      "question": "mercury's period of orbit takes how many earth days?",
+      "answer": "eighty eight",
+      "category": "science",
+      "id": 578
+    },
+    {
+      "question": "who opened a 'holistic detective agency'?",
+      "answer": "dirk gently (aka svlad cjelli)",
+      "category": "tv",
+      "id": 579
+    },
+    {
+      "question": "for season's 1-5, who died in nearly every episode of south park?",
+      "answer": "kenny",
+      "category": "tv",
+      "id": 580
+    },
+    {
+      "question": "for all the 1980's there were only 2 non-kickers to lead the nfl in scoring. name one of them.",
+      "answer": "jerry rice or marcus allen",
+      "category": "sports",
+      "id": 581
+    },
+    {
+      "question": "what brand of underwear is marty wearing in \"back to tge future\"?",
+      "answer": "calvin klein briefs",
+      "category": "movies",
+      "id": 582
+    },
+    {
+      "question": "how many castaways were there on gilligan's island?",
+      "answer": "seven",
+      "category": "tv",
+      "id": 583
+    },
+    {
+      "question": "what is converted into alcohol during the brewing process?",
+      "answer": "sugar",
+      "category": "food",
+      "id": 584
+    },
+    {
+      "question": "whose real name is 'paul hewson'",
+      "answer": "bono",
+      "category": "music",
+      "id": 585
+    },
+    {
+      "question": "what movie franchise featured a cat named mr. biggleworth?",
+      "answer": "austin powers",
+      "category": "movies",
+      "id": 586
+    },
+    {
+      "question": "what was taylor swift's first album?",
+      "answer": "taylor swift",
+      "category": "music",
+      "id": 587
+    },
+    {
+      "question": "what was the highest selling album of the 1980s in the united states?",
+      "answer": "thriller by michael jackson",
+      "category": "music",
+      "id": 588
+    },
+    {
+      "question": "who was hal jordan's alter ego?",
+      "answer": "green lantern",
+      "category": "arts",
+      "id": 589
+    },
+    {
+      "question": "in 'the hobbit', what is the name of the wizard that convinces bilbo to go on an adventure?",
+      "answer": "gandalf",
+      "category": "arts",
+      "id": 590
+    },
+    {
+      "question": "at the end of the TVs MASH what character stayed in korea",
+      "answer": "corp maxwell klinger",
+      "category": "tv",
+      "id": 591
+    },
+    {
+      "question": "in 1878 wanamaker's of philadelphia was the first US store to install what",
+      "answer": "electric lights",
+      "category": "history",
+      "id": 592
+    },
+    {
+      "question": "what is james naismith best known for?",
+      "answer": "inventing basketball",
+      "category": "sports",
+      "id": 593
+    },
+    {
+      "question": "what is dennis the menace's last name?",
+      "answer": "mitchell",
+      "category": "arts",
+      "id": 594
+    },
+    {
+      "question": "how many numbers are there on a roulette wheel",
+      "answer": "37 - (0-36)",
+      "category": "sports",
+      "id": 595
+    },
+    {
+      "question": "the lightweight portable drill was first marketed in 1917 by 2 americans with the first names duncan and alonso, what were their surnames",
+      "answer": "black and decker",
+      "category": "history",
+      "id": 596
+    },
+    {
+      "question": "frank and jesse james father had what job",
+      "answer": "minister",
+      "category": "history",
+      "id": 597
+    },
+    {
+      "question": "filo pastry stuffed with chopped nuts and honey",
+      "answer": "baklava",
+      "category": "food",
+      "id": 598
+    },
+    {
+      "question": "In 1953 science fiction author l. ron hubbard founded what cult?",
+      "answer": "scientology",
+      "category": "arts",
+      "id": 599
+    },
+    {
+      "question": "in 'blade runner', what origami animal does gaff leave outside of deckard's apartment?",
+      "answer": "unicorn",
+      "category": "movies",
+      "id": 600
+    },
+    {
+      "question": "what is the main ingrediant in sauerkraut?",
+      "answer": "cabbage",
+      "category": "food",
+      "id": 601
+    },
+    {
+      "question": "this war started on june 25, 1950.",
+      "answer": "the korean war",
+      "category": "history",
+      "id": 602
+    },
+    {
+      "question": "what actory blade roy batty in 'blade runner'?",
+      "answer": "rutger hauer",
+      "category": "movies",
+      "id": 603
+    },
+    {
+      "question": "competitive swimming has 4 events; butterfly, breast stroke, back stroke, and what?",
+      "answer": "freestyle",
+      "category": "sports",
+      "id": 604
+    },
+    {
+      "question": "this 'fruit' has its seeds on the outside.",
+      "answer": "strawberry",
+      "category": "food",
+      "id": 605
+    },
+    {
+      "question": "what animal is responsible for the most human deaths world wide?",
+      "answer": "mosquito",
+      "category": "animal",
+      "id": 606
+    },
+    {
+      "question": "charles laughton played quasimodo in this epic 1939 film.",
+      "answer": "hunchback of notre dame",
+      "category": "movies",
+      "id": 607
+    },
+    {
+      "question": "where do you find medulla oblongata",
+      "answer": "brain",
+      "category": "medicine",
+      "id": 608
+    },
+    {
+      "question": "who is the alter ego of 'the incredible hulk'?",
+      "answer": "dr bruce (sometimes david) banner",
+      "category": "arts",
+      "id": 609
     }
   ]
 }
