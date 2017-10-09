@@ -3640,6 +3640,228 @@
       "answer": "dr bruce (sometimes david) banner",
       "category": "arts",
       "id": 609
+    },
+    {
+      "question": "What was responsible for more than half of the deaths of US soldiers during WW1?",
+      "answer": "1918 Flu Epidemic",
+      "category": "history",
+      "id": 610
+    },
+    {
+      "question": "What 2 countries border the Dead Sea?",
+      "answer": "Israel and Jordan",
+      "category": "geography",
+      "id": 611
+    },
+    {
+      "question": "Which band sang the hit \"Hey There Delilah\", which reached No. 1 on the Billboard Hot 100 in 2007?",
+      "answer": "Plain White T's",
+      "category": "music",
+      "id": 612
+    },
+    {
+      "question": "Who was the shortest player ever to play in the NBA?",
+      "answer": "Tyrone Bogues, better known as Muggsy Bogues",
+      "category": "sports",
+      "id": 613
+    },
+    {
+      "question": "What's the name of a shallow dish with a cover that is used for science specimens?",
+      "answer": "Petri dish",
+      "category": "science",
+      "id": 614
+    },
+    {
+      "question": "What is the name of the animated science fiction comedy-drama film released in 2002 about a Hawaiian girl and her unusual pet?",
+      "answer": "Lilo &amp; Stitch",
+      "category": "movies",
+      "id": 615
+    },
+    {
+      "question": "What was the title of Kayne West's debut album release in 2004?",
+      "answer": "The College Dropout",
+      "category": "music",
+      "id": 616
+    },
+    {
+      "question": "Hockey: The Buffalo _________.",
+      "answer": "Sabres",
+      "category": "sports",
+      "id": 618
+    },
+    {
+      "question": "In Disney's \"The Little Mermaid\" what is the name of the human that Ariel falls in love with?",
+      "answer": "Prince Eric",
+      "category": "movies",
+      "id": 619
+    },
+    {
+      "question": "Meningitis affects what organ?",
+      "answer": "Brain",
+      "category": "science",
+      "id": 620
+    },
+    {
+      "question": "In a Decathlon what is the total number of meters a competitor has to run?",
+      "answer": "2110 (100,110,400,1500)",
+      "category": "sports",
+      "id": 621
+    },
+    {
+      "question": "Who wrote the 'Divine Comedy'?",
+      "answer": " Dante Alighieri",
+      "category": "arts",
+      "id": 622
+    },
+    {
+      "question": "What is the longest running U.S. primetime television show of all time?",
+      "answer": "The Simpsons",
+      "category": "tv",
+      "id": 623
+    },
+    {
+      "question": "In the tennis world, who is known as Pistol Pete?",
+      "answer": "Pete Sampras",
+      "category": "sports",
+      "id": 624
+    },
+    {
+      "question": "Who was the last president of the Soviet Union?",
+      "answer": "Mikhail Gorbachev",
+      "category": "history",
+      "id": 625
+    },
+    {
+      "question": "Alphabetically, which is the last of Santa's reindeer?",
+      "answer": "Vixen",
+      "category": "arts",
+      "id": 626
+    },
+    {
+      "question": "Is South America or Australia closer to the Antarctic?",
+      "answer": "South America",
+      "category": "geography",
+      "id": 627
+    },
+    {
+      "question": "\"The Westminster\" is the oldest and biggest what in the USA?",
+      "answer": "Dog Show",
+      "category": "general",
+      "id": 628
+    },
+    {
+      "question": "In Greek mythology, who made wings for himself &amp; his son to escape from the island of Crete?",
+      "answer": "Daedalus",
+      "category": "art",
+      "id": 629
+    },
+    {
+      "question": "Which famous American musician was fatally shot by his father on April 1, 1984?",
+      "answer": "Marvin Gaye",
+      "category": "music",
+      "id": 630
+    },
+    {
+      "question": "Who wrote 'To Kill A Mockingbird'?",
+      "answer": "Harper Lee",
+      "category": "arts",
+      "id": 631
+    },
+    {
+      "question": "According to Franklin D. Roosevelt, what is the only thing we have to fear?",
+      "answer": "Fear itself",
+      "category": "history",
+      "id": 632
+    },
+    {
+      "question": "Who was given a ticker tape parade in New York after his 1927 flight to Paris?",
+      "answer": "Charles Lindbergh",
+      "category": "history",
+      "id": 633
+    },
+    {
+      "question": "Where do Ming vases come from?",
+      "answer": " China",
+      "category": "general",
+      "id": 634
+    },
+    {
+      "question": "In the Pink Panther films what is Inspector Clouseau's first name",
+      "answer": "Jaques",
+      "category": "movies",
+      "id": 635
+    },
+    {
+      "question": "Edith and Archie sang the theme song to what TV show?",
+      "answer": "All in the Family",
+      "category": "tv",
+      "id": 636
+    },
+    {
+      "question": "As a result of their wearing high leather collars to protect their necks from sabers, what were the first U.S. marines called?",
+      "answer": "Leathernecks",
+      "category": "general",
+      "id": 637
+    },
+    {
+      "question": "In the cartoon 'Peanuts', who is Schroeder's favourite composer",
+      "answer": "Beethoven",
+      "category": "arts",
+      "id": 638
+    },
+    {
+      "question": "Who captained Jules Verne's submarine Nautilus?",
+      "answer": "Captain Nemo",
+      "category": "arts",
+      "id": 639
+    },
+    {
+      "question": "This story is about the migration of poor workers from the dust bowl to the Californian fruit valleys.",
+      "answer": "The Grapes of Wrath",
+      "category": "arts",
+      "id": 640
+    },
+    {
+      "question": "What do you call the stand an artist supports his canvas on?",
+      "answer": "Easel",
+      "category": "art",
+      "id": 641
+    },
+    {
+      "question": "The fourth planet from the sun is ____.",
+      "answer": "Mars",
+      "category": "science",
+      "id": 642
+    },
+    {
+      "question": "What are the three flavors that make up neopolitan ice cream?",
+      "answer": "Chocolate, Vanilla, Strawberry",
+      "category": "general",
+      "id": 643
+    },
+    {
+      "question": "Japanese haiku poems are comprised of how many syllables?",
+      "answer": "17",
+      "category": "arts",
+      "id": 644
+    },
+    {
+      "question": "Who did Tom Cruise marry on Christmas Eve 1990",
+      "answer": "Nicole Kidman",
+      "category": "movies",
+      "id": 645
+    },
+    {
+      "question": "Which WWE wrestler is known as 'The Lord of Darkness'?",
+      "answer": "The Undertaker",
+      "category": "sports",
+      "id": 646
+    },
+    {
+      "question": "In which European country is Shakespeare's Romeo and Juliet set?",
+      "answer": " Italy",
+      "category": "arts",
+      "id": 647
     }
   ]
 }
