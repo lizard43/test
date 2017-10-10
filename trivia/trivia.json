@@ -3860,9 +3860,117 @@
     },
     {
       "question": "In which European country is Shakespeare's Romeo and Juliet set?",
-      "answer": " Italy",
+      "answer": "Italy",
       "category": "arts",
       "id": 647
+    },
+    {
+      "question": "DreamWorks released the animated file \"antz\" in october 1998, just six weeks before another similar-themed film was to hit the theaters. Which animated insect movie premiered in november 1998? ",
+      "answer": "A Bug's Life",
+      "category": "movies",
+      "id": 648
+    },
+    {
+      "question": "What is measured by a chronometer",
+      "answer": "time",
+      "category": "science",
+      "id": 649
+    },
+    {
+      "question": "What is the word used to describe an animal/plant that is both male and female?",
+      "answer": "hermaphrodite",
+      "category": "science",
+      "id": 650
+    },
+    {
+      "question": "What system was mistakenly referred to as the first game system and was a home to some of the most popular arcade games like \"space invaders\" and \"asteroids\"?",
+      "answer": "Atari 2600",
+      "category": "sports",
+      "id": 651
+    },
+    {
+      "question": "What is the biggest bay on the north american continent?",
+      "answer": "hudson bay",
+      "category": "geography",
+      "id": 652
+    },
+    {
+      "question": "In which Dickens novel was Miss Havisham jilted on her wedding day?",
+      "answer": "Great Expectations",
+      "category": "arts",
+      "id": 653
+    },
+    {
+      "question": "What is the name of Snoopy's little bird friend in the peanuts comics?",
+      "answer": "woodstock",
+      "category": "arts",
+      "id": 654
+    },
+    {
+      "question": "Which Kardashian was a guest star on 'How I met Your Mother'?",
+      "answer": "Kim",
+      "category": "tv",
+      "id": 655
+    },
+    {
+      "question": "How many bones are there in a giraffe's neck?",
+      "answer": "7",
+      "category": "animals",
+      "id": 656
+    },
+    {
+      "question": "\"Thre and Back Again\" is an alternative title of which novel?",
+      "answer": "The Hobbit",
+      "category": "arts",
+      "id": 657
+    },
+    {
+      "question": "\"Poppy Field\" and \"Water Lillies\" were painted by which artist",
+      "answer": "Claude Monet",
+      "category": "arts",
+      "id": 658
+    },
+    {
+      "question": "What South American country has Andean peaks, Northern deserts, sandy beaches, fjords, and glaciers?",
+      "answer": "Chile",
+      "category": "geography",
+      "id": 659
+    },
+    {
+      "question": "What is the name of the attempted invasion of Cuba in 1961?",
+      "answer": "The Bay of Pigs",
+      "category": "history",
+      "id": 660
+    },
+    {
+      "question": "Who is the oldest of the Kardashian sisters?",
+      "answer": "Kourtney",
+      "category": "tv",
+      "id": 661
+    },
+    {
+      "question": "What is the only book written by Margaret Mitchell that was published in her lifetime?",
+      "answer": "Gone With the Wind",
+      "category": "arts",
+      "id": 662
+    },
+    {
+      "question": "What Pro athlete did fortune magazine claim added $10 Billion to the U.S. economy in 1998?",
+      "answer": "Michael Jordan",
+      "category": "sports",
+      "id": 663
+    },
+    {
+      "question": "What does the abbreviations A.B.V. stand for in acloholic drinks?",
+      "answer": "Alcohol By Volume",
+      "category": "food",
+      "id": 664
+    },
+    {
+      "question": "Name the four teenagers in 'Scooby-Doo, Where Are You?'",
+      "answer": "Fred Jones, Daphne Blake, Velma Dinkley, and Norville 'Shaggy' Rogers",
+      "category": "tv",
+      "id": 665
     }
   ]
 }
