@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "question": "The An Apiary holds",
+      "question": "An Apiary holds",
       "answer": "bees",
       "category": "animal"
     },
@@ -1700,8 +1700,9 @@
     },
     {
       "question": "Thank you for playing<br>Team Trivia!",
-      "answer": "",
-      "id": 285
+      "answer": "So Long, and Thanks for All the Fish",
+      "id": 285,
+      "category": "general"     
     },
     {
       "question": "How many moons does Saturn have?",
@@ -2456,7 +2457,7 @@
     {
       "category": "arts",
       "question": "What philosopher said that, dues to the existence of the soul previous to the actual birth, knowing something was simply 'recalling' it?",
-      "answer": "Pluto",
+      "answer": "Plato",
       "id": 412
     },
     {
@@ -3198,7 +3199,7 @@
       "id": 535
     },
     {
-      "question": "Poppin' Fresh served as the mascot for which onternational food brand?",
+      "question": "Poppin' Fresh served as the mascot for which international food brand?",
       "answer": "Pillsbury Dough Co",
       "category": "food",
       "id": 536
@@ -3259,7 +3260,7 @@
     },
     {
       "question": "heartsbane, longclaw, and oathkeeper are all this type of sword",
-      "answer": "valrian steel",
+      "answer": "valyrian steel",
       "category": "tv",
       "id": 546
     },
@@ -3446,7 +3447,7 @@
     {
       "question": "'blade runner' is based on the short story 'do androids dream of electric sheep' by who?",
       "answer": "philip k. dick",
-      "category": "moi=vies",
+      "category": "movies",
       "id": 577
     },
     {
@@ -3474,7 +3475,7 @@
       "id": 581
     },
     {
-      "question": "what brand of underwear is marty wearing in \"back to tge future\"?",
+      "question": "what brand of underwear is marty wearing in \"back to the future\"?",
       "answer": "calvin klein briefs",
       "category": "movies",
       "id": 582
