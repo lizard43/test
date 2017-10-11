@@ -3919,7 +3919,7 @@
       "id": 656
     },
     {
-      "question": "\"Thre and Back Again\" is an alternative title of which novel?",
+      "question": "\"There and Back Again\" is an alternative title of which novel?",
       "answer": "The Hobbit",
       "category": "arts",
       "id": 657
@@ -3971,6 +3971,66 @@
       "answer": "Fred Jones, Daphne Blake, Velma Dinkley, and Norville 'Shaggy' Rogers",
       "category": "tv",
       "id": 665
+    },
+    {
+      "question": "Who said \"I've taken more out of alcohol than it has taken out of me.\"?",
+      "answer": "Sir Winston Churchill",
+      "category": "history",
+      "id": 666
+    },
+    {
+      "question": "In the canonical DC Comics Univers, who shot Bruce Wayne's parents?",
+      "answer": "Joe Chill",
+      "category": "arts",
+      "id": 667
+    },
+    {
+      "question": "Collective nouns - A streak is a group of what animals?",
+      "answer": "tigers",
+      "category": "animals",
+      "id": 668
+    },
+    {
+      "question": "What Ernest Hemingway novel deals with a group of young Americans living in Europe in the 1920s -- the so-called lost generation?",
+      "answer": "The Sun Also Rises",
+      "category": "arts",
+      "id": 669
+    },
+    {
+      "question": "What is the Kardashian phrase for \"Do you swear\"?",
+      "answer": "bible",
+      "category": "tv",
+      "id": 670
+    },
+    {
+      "question": "How many seconds is the note sustained at the end of the Beatles' song 'A Day in the Life'?",
+      "answer": "forty seconds",
+      "category": "music",
+      "id": 671
+    },
+    {
+      "question": "What's the common name of a volcanic glass formed as an extrusive igneous rock?",
+      "answer": "obsidian",
+      "category": "general",
+      "id": 672
+    },
+    {
+      "question": "What TV show used the theme song \"The Best of Both Worlds\"?",
+      "answer": "Hanna Montana",
+      "category": "tv",
+      "id": 673
+    },
+    {
+      "question": "Hydrogen Hydroxide is more commonly known as what?",
+      "answer": "water, h20",
+      "category": "science",
+      "id": 674
+    },
+    {
+      "question": "What mythical Scottish town appears for one day every 100 years?",
+      "answer": "brigadoon",
+      "category": "movies",
+      "id": 675
     }
   ]
 }
