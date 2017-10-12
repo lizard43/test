@@ -3601,7 +3601,7 @@
       "id": 602
     },
     {
-      "question": "what actory blade roy batty in 'blade runner'?",
+      "question": "what actor blade roy batty in 'blade runner'?",
       "answer": "rutger hauer",
       "category": "movies",
       "id": 603
@@ -3979,7 +3979,7 @@
       "id": 666
     },
     {
-      "question": "In the canonical DC Comics Univers, who shot Bruce Wayne's parents?",
+      "question": "In the canonical DC Comics Universe, who shot Bruce Wayne's parents?",
       "answer": "Joe Chill",
       "category": "arts",
       "id": 667
@@ -4031,6 +4031,198 @@
       "answer": "brigadoon",
       "category": "movies",
       "id": 675
+    },
+    {
+      "question": "Apart from man, what is New Zealand's only indigenous land mammal?",
+      "answer": "bats",
+      "category": "animals",
+      "id": 676
+    },
+    {
+      "question": "What is the meaning of the mercedes benz motto 'das beste oder nichts'?",
+      "answer": "nothing but the best",
+      "category": "autos",
+      "id": 677 
+    },
+    {
+      "question": "In 'Dirty Dancing' what was baby's real name?",
+      "answer": "Frances",
+      "category": "movies",
+      "id": 678
+    },
+    {
+      "question": "Rodin's The Thinker is really a portrait of what Italian Poet",
+      "answer": "Dante",
+      "category": "arts",
+      "id": 679
+    },
+    {
+      "question": "What piece of sporting equipment is 5 meters long and 10 centimeters wide?",
+      "answer": "gymnastics beam.  balance beam",
+      "category": "sports",
+      "id": 680
+    },
+    {
+      "question": "Who is the only actor to win two academy awards for best actor for pportraying real people?",
+      "answer": "Daniel Day-Lewis (Abraham Lincoln and Christy Brown)",
+      "category": "movies",
+      "id": 681
+    },
+    {
+      "question": "What does H.M.S. stand for on British warships?",
+      "answer": "His/Her Majesty's Ship",
+      "category": "general",
+      "id": 682
+    },
+    {
+      "question": "In 1909, which U.S. President became the first to be depicted on a coin?",
+      "answer": "Abraham Lincoln",
+      "category": "history",
+      "id": 683
+    },
+    {
+      "question": "Damascus is the capital of ____________",
+      "answer": "Syria",
+      "category": "geography",
+      "id": 684
+    },
+    {
+      "question": "What did Robert Kardashian, Sr. (Father of Kourtney, Kim, Khloe and Rob) die of in 2003?",
+      "answer": "Esophagel Cancer",
+      "category": "tv",
+      "id": 685
+    },
+    {
+      "question": "As precisely as you wish, how long did prohibition last in the United States?",
+      "answer": "13 years, 10 months, 19 days, 17 hours, and 32-1/2 minutes,",
+      "category": "history",
+      "id": 686
+    },
+    {
+      "question": "After which creaure is the Californian island of Alcatraz named",
+      "answer": "Pelican",
+      "category": "animal",
+      "id": 687
+    },
+    {
+      "question": "Whom did Colin Baker replace as Doctor Who on Television",
+      "answer": "Peter Davidson",
+      "category": "tv",
+      "id": 688
+    },
+    {
+      "question": "Whose nickname is Satchmo?",
+      "answer": "Louis Armstrong",
+      "category": "music",
+      "id": 689
+    },
+    {
+      "question": "In Die Hard 3, there was a riddle whose solution was to end up with 4 gallons of water. What was the volumes of each of the two containers in the riddle?",
+      "answer": "3 gallons and 5 gallons",
+      "category": "movies",
+      "id": 690
+    },
+    {
+      "question": "Who is Oscar Zoroaster Phadrig Isaac Norman Henkle Emmanuel Ambroise Diggs?",
+      "answer": "Wizard of Oz",
+      "category": "arts",
+      "id": 691
+    },
+    {
+      "question": "Walt Disney ironically suffered from Suriphobia. Suriphobia is the fear of what?",
+      "answer": "Mice",
+      "category": "animals",
+      "id": 692
+    },
+    {
+      "question": "What vidoe game franchise has versions that follow its name with the words, Space, Stella, Star Wars, and Go?",
+      "answer": "Angry Birds",
+      "category": "sports",
+      "id": 693
+    },
+    {
+      "question": "Cab, as in taxi, is a shortened version of what word?",
+      "answer": "cabriolet",
+      "category": "autos",
+      "id": 694
+    },
+    {
+      "question": "Who sings the theme song to the television series 'Friends'?",
+      "answer": "Rembrandts",
+      "category": "tv",
+      "id": 695
+    },
+    {
+      "question": "In which sport is the Cy Young trophy awarded?",
+      "answer": "baseball",
+      "category": "sports",
+      "id": 696
+    },
+    {
+      "question": "Which religion beleives in the four noble truths?",
+      "answer": "buddhism",
+      "category": "religion",
+      "id": 697
+    },
+    {
+      "question": "Who was Kim Kardashian's co-star in that infamous sex tape?",
+      "answer": "Ray J",
+      "category": "tv",
+      "id": 698
+    },
+    {
+      "question": "At what address will you find the offical residence of the President of the United States",
+      "answer": "1600 Pennsylvania Avenue",
+      "category": "general",
+      "id": 699
+    },
+    {
+      "question": "What was the name of the Charles Lindbergh's plane in which he completed the first non-stop solo trans-atlantic flight?",
+      "answer": "Spirit of St Louis (achieved in 1927)",
+      "category": "history",
+      "id": 700
+    },
+    {
+      "question": "In computing there are 8 bits to a byte. What are 4 bits called?",
+      "answer": "nibble",
+      "category": "science",
+      "id": 701
+    },
+    {
+      "question": "What was the name of the artifical satellite launched into space in 1957 by the Soviet Union?",
+      "answer": "Sputnik",
+      "category": "history",
+      "id": 702
+    },
+    {
+      "question": "Krusty the Clown from 'The Simpsons' and Chandler from 'Friends' both have an extra what?",
+      "answer": "Nipple",
+      "category": "tv",
+      "id": 703
+    },
+    {
+      "question": "In \"Ren and Stimp\" what sort of dog is Ren?",
+      "answer": "Chiuhauha",
+      "category": "tv",
+      "id": 704
+    },
+    {
+      "question": "What German military leader of the Afrika orps was known as 'The Desert Fox'?",
+      "answer": "Erwin Rommel",
+      "category": "history",
+      "id": 705
+    },
+    {
+      "question": "What movie included the line \"They're not gonna catch us. We're on a mission from God.\"?",
+      "answer": "The Blues Brothers",
+      "category": "movies",
+      "id": 706
+    },
+    {
+      "question": "What's the worlds highest waterfall?",
+      "answer": "Angel Falls, Venezuela",
+      "category": "geography",
+      "id": 707
     }
   ]
 }
