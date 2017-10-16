@@ -1702,7 +1702,7 @@
       "question": "Thank you for playing<br>Team Trivia!",
       "answer": "So Long, and Thanks for All the Fish",
       "id": 285,
-      "category": "general"     
+      "category": "general"
     },
     {
       "question": "How many moons does Saturn have?",
@@ -4042,7 +4042,7 @@
       "question": "What is the meaning of the mercedes benz motto 'das beste oder nichts'?",
       "answer": "nothing but the best",
       "category": "autos",
-      "id": 677 
+      "id": 677
     },
     {
       "question": "In 'Dirty Dancing' what was baby's real name?",
@@ -4063,7 +4063,7 @@
       "id": 680
     },
     {
-      "question": "Who is the only actor to win two academy awards for best actor for pportraying real people?",
+      "question": "Who is the only actor to win two academy awards for best actor for portraying real people?",
       "answer": "Daniel Day-Lewis (Abraham Lincoln and Christy Brown)",
       "category": "movies",
       "id": 681
@@ -4223,6 +4223,174 @@
       "answer": "Angel Falls, Venezuela",
       "category": "geography",
       "id": 707
+    },
+    {
+      "question": "What is the lightest known gas",
+      "answer": "Hydrogen",
+      "category": "science",
+      "id": 708
+    },
+    {
+      "question": "What was the only team to win two world series in the 1980s?",
+      "answer": "Los angeles dodgers",
+      "category": "sports",
+      "id": 709
+    },
+    {
+      "question": "What band opened a 1991 song with these lyrics:  \"Sometimes I feel like I don't have a partner Sometimes I feel like my only friend Is the city I live in\"?",
+      "answer": "Red Hot Chili Peppers",
+      "category": "music",
+      "id": 710
+    },
+    {
+      "question": "What is classified by the A B O system",
+      "answer": "Blood Groups",
+      "category": "science",
+      "id": 711
+    },
+    {
+      "question": "How is something cooked if done en papillote",
+      "answer": "In Paper",
+      "category": "history",
+      "id": 712
+    },
+    {
+      "question": "If you suffered from pruritus - what would be wrong",
+      "answer": "Itching",
+      "category": "medical",
+      "id": 713
+    },
+    {
+      "question": "Whose 2015 album was 'Purpose'?",
+      "answer": "Justin Bieber",
+      "category": "music",
+      "id": 714
+    },
+    {
+      "question": "Who is Oscar Zoroaster Phadrig Isaac Norman Henkle Emmanuel Ambroise Diggs?",
+      "answer": "Wizard of Oz",
+      "category": "movies",
+      "id": 715
+    },
+    {
+      "question": "A phlebotomist extracts what from the human body?",
+      "answer": "Blood",
+      "category": "medical",
+      "id": 716
+    },
+    {
+      "question": "What famous pair share the same name as two of the Kardashian family’s dogs?",
+      "answer": "Dolce and Gabbana",
+      "category": "tv",
+      "id": 717
+    },
+    {
+      "question": "If you were traveling at Mach 2, how fast would you be traveling?",
+      "answer": "1534.54 mph 2X Speed of sound (767.27 mph)",
+      "category": "science",
+      "id": 718
+    },
+    {
+      "question": "In The Simpsons, what is the first name of Mr Burns assistant, Smithers?",
+      "answer": "Waylon",
+      "category": "tv",
+      "id": 719
+    },
+    {
+      "question": "Walt Disney in an interview admitted he was scared of what?",
+      "answer": "Mice",
+      "category": "arts",
+      "id": 720
+    },
+    {
+      "question": "What was gangster Charles Floyd's nickname?",
+      "answer": "Pretty boy",
+      "category": "history",
+      "id": 721
+    },
+    {
+      "question": "If you ordered Cherries Jubilee, how would you expect them to be cooked?",
+      "answer": "Flambeed (in kirsch)",
+      "category": "food",
+      "id": 722
+    },
+    {
+      "question": "In Disney's \"Sleeping Beauty\" what is the name of the Queen witch?",
+      "answer": "Maleficent",
+      "category": "movies",
+      "id": 723
+    },
+    {
+      "question": "Harvard University was founded in what year?",
+      "answer": "1636",
+      "category": "history",
+      "id": 724
+    },
+    {
+      "question": "What Asian city boasts the world's biggest bowling alley",
+      "answer": "Tokyo",
+      "category": "sports",
+      "id": 725
+    },
+    {
+      "question": "What drink is made when you add fresh fruit to red wine",
+      "answer": "Sangria",
+      "category": "food",
+      "id": 726
+    },
+    {
+      "question": "Which Baseball Team Won A Record 37 World Series In The 20th Century",
+      "answer": "New York Yankees",
+      "category": "sports",
+      "id": 727
+    },
+    {
+      "question": "Which country in the world produces the most mangos",
+      "answer": "India",
+      "category": "food",
+      "id": 728
+    },
+    {
+      "question": "I won (a record setting) 11 races in 1985. I was also voted NASCAR's 'Most Popular Driver' 16 times. Who am I?",
+      "answer": "Bill Elliott ",
+      "category": "sports",
+      "id": 729
+    },
+    {
+      "question": "In Minnesota it is illegal to tease what animal",
+      "answer": "Skunk",
+      "category": "animals",
+      "id": 730
+    },
+    {
+      "question": "The Grand Slam tournaments are the four most import annual events in which two sports?",
+      "answer": "Tennis &amp; Golf",
+      "category": "sports",
+      "id": 731
+    },
+    {
+      "question": "What phrase is associated with this hand gesture?<br><div class=\"questNum\">Answer:</div><div class=\"question\">Live long, and prosper.</div><img src=\"/host/question_images/1473880007.png\" class=\"identifyImage\">",
+      "answer": "Live long, and prosper.",
+      "category": "tv",
+      "id": 732
+    },
+    {
+      "question": "what spirit is added to brandy to make a sidecar?",
+      "answer": "Cointreau orange liqueur",
+      "category": "food",
+      "id": 732
+    },
+    {
+      "question": "What is the more common name for serigraphy",
+      "answer": "Silk screen printing",
+      "category": "arts",
+      "id": 733
+    },
+    {
+      "question": "If you were given a pot of vermicide what would you use it for",
+      "answer": "Killing worms",
+      "category": "medicine",
+      "id": 734
     }
   ]
 }
