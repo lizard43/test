@@ -4135,7 +4135,7 @@
       "id": 692
     },
     {
-      "question": "What vidoe game franchise has versions that follow its name with the words, Space, Stella, Star Wars, and Go?",
+      "question": "What video game franchise has versions that follow its name with the words, Space, Stella, Star Wars, and Go?",
       "answer": "Angry Birds",
       "category": "sports",
       "id": 693
@@ -4159,7 +4159,7 @@
       "id": 696
     },
     {
-      "question": "Which religion beleives in the four noble truths?",
+      "question": "Which religion believes in the four noble truths?",
       "answer": "buddhism",
       "category": "religion",
       "id": 697
@@ -4391,6 +4391,234 @@
       "answer": "Killing worms",
       "category": "medicine",
       "id": 734
+    },
+    {
+      "question": "Anatomically speaking, what is the Axilla better known as?",
+      "answer": "armpit",
+      "category": "science",
+      "id": 735
+    },
+
+    {
+      "question": "This small, sausage dog was bred to hunt small underground mammals in their dens.",
+      "answer": "Dachsund",
+      "category": "animals",
+      "id": 736
+    },
+    {
+      "question": "What was Sheryl Crow's occupation before she became a Singer?",
+      "answer": "Music Teacher",
+      "category": "music",
+      "id": 737
+    },
+    {
+      "question": "What are/is arranged in the Japanese art of Ikebana?",
+      "answer": "flowers",
+      "category": "arts",
+      "id": 738
+    },
+    {
+      "question": "Who were Lucy and Ricky's next door neighbors and best freinds?",
+      "answer": "Fred and Ethel",
+      "category": "tv",
+      "id": 739
+    },
+    {
+      "question": "What is the captial of Indonesia?",
+      "answer": "Jakarta",
+      "category": "geography",
+      "id": 740
+    },
+    {
+      "question": "What is the offspring of a male horse and a female donkey?",
+      "answer": "hinny",
+      "category": "animals",
+      "id": 741
+    },
+    {
+      "question": "What is the offspring of a female horse and a male donkey?",
+      "answer": "mule",
+      "category": "animals",
+      "id": 742
+    },
+    {
+      "question": "A great wave resulting from an earthquake is called a (an) _____________.",
+      "answer": "Tsunami",
+      "category": "geography",
+      "id": 743
+    },
+    {
+      "question": "In what year was the US Constitution written?",
+      "answer": "1787",
+      "category": "history",
+      "id": 744
+    },
+    {
+      "question": "What chocolaty cereal features Fred Flintstone and Barney Rubble?",
+      "answer": "Cocoa Pebbles",
+      "category": "food",
+      "id": 745
+    },
+    {
+      "question": "What author wrote 'Jaws'?",
+      "answer": "Peter Benchley",
+      "category": "arts",
+      "id": 746
+    },
+    {
+      "question": "Where were the warships 'Arizona', 'Oklahoma' and 'Utah' sunk?",
+      "answer": "Pearl Harbor",
+      "category": "history",
+      "id": 747
+    },
+    {
+      "question": "Who was the star (1st credited) of 'The Sixth Sense'?",
+      "answer": "Bruce Willis",
+      "category": "movies",
+      "id": 748
+    },
+    {
+      "question": "Whose big break was playing Vinnie Barbarino on \"Welecome Back, Kotter\"?",
+      "answer": "John Travolta",
+      "category": "tv",
+      "id": 749
+    },
+    {
+      "question": "Name Jacques Cousteau's reserach ship?",
+      "answer": "Calypso",
+      "category": "science",
+      "id": 750
+    },
+    {
+      "question": "In the Electromagnetic Spectrum, what comes between X-Rays and Light?",
+      "answer": "Ultraviolet Light",
+      "category": "science",
+      "id": 751
+    },
+    {
+      "question": "Who played the part of Mophammad Ali in the 1977 bio-pic of his life 'The Greatest'?",
+      "answer": "Mahammad Ali",
+      "category": "sports",
+      "id": 752
+    },
+    {
+      "question": "How many chromosomes does a healthy human have?",
+      "answer": "46 (23 pairs)",
+      "category": "science",
+      "id": 753
+    },
+    {
+      "question": "Vigesimal is which base numbering system?",
+      "answer": "Base twenty",
+      "category": "science",
+      "id": 754
+    },
+    {
+      "question": "Name the first chocolate bar created by Forest Mars in 1923?",
+      "answer": "Milky Way",
+      "category": "food",
+      "id": 755
+    },
+    {
+      "question": "Name the last US president to meet the leader of Cuba before Barack Obama in 2015?",
+      "answer": "Eisenhower",
+      "category": "history",
+      "id": 756
+    },
+    {
+      "question": "Which alcoholic drink would you need to make the cocktail Tom Collins?",
+      "answer": "Gin",
+      "category": "food",
+      "id": 757
+    },
+    {
+      "question": "Against what team were the Yankees playing in 1932 when Babe Ruth pointed to the spot in the stands where he was going to hit a home run?",
+      "answer": "Chicago Cubs",
+      "category": "sports",
+      "id": 758
+    },
+    {
+      "question": "Who was the author of \"Dracula\"?",
+      "answer": "Bram Stoker",
+      "category": "arts",
+      "id": 759
+    },
+    {
+      "question": "'Magnum PI' wore a baseball cap supporting what team?",
+      "answer": "Detroit Tigers",
+      "category": "sports",
+      "id": 760
+    },
+
+    {
+      "question": "Who was C3P0's sidekick?",
+      "answer": "R2D2",
+      "category": "movies",
+      "id": 761
+    },
+
+    {
+      "question": "What name is given to a chemical reaction which gives off heat?",
+      "answer": "exothermic",
+      "category": "science",
+      "id": 762
+    },
+
+    {
+      "question": "Who was Garfield's vet?",
+      "answer": "Liz",
+      "category": "arts",
+      "id": 763
+    },
+
+    {
+      "question": "How many stiches on a regulation baseball?",
+      "answer": "108 double stiches or 216 single stiches",
+      "category": "sports",
+      "id": 764
+    },
+
+    {
+      "question": "In which country was the Rosetta Stone found?",
+      "answer": "Egypt",
+      "category": "history",
+      "id": 765
+    },
+
+    {
+      "question": "Which major league baseball player was the Rookie of the Year in 1947 and MVP in 1949?",
+      "answer": "Jackie Robinson",
+      "category": "sports",
+      "id": 766
+    },
+
+    {
+      "question": "In which novel was it the fireman's job to burn books?",
+      "answer": "Fahrenheit 451",
+      "category": "arts",
+      "id": 767
+    },
+
+    {
+      "question": "American folklore Abner Doubleday invented what at West Point?",
+      "answer": "baseball",
+      "category": "sports",
+      "id": 768
+    },
+
+    {
+      "question": "What '27 baseball team had a crew of heavy hitters called Murderer's Row?",
+      "answer": "New York Yankees",
+      "category": "sports",
+      "id": 769
+    },
+
+    {
+      "question": "How wide is the beam in women's gymnastic?",
+      "answer": "4 inches or 10 centimeters",
+      "category": "sports",
+      "id": 770
     }
+    
   ]
 }
