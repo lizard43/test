@@ -399,7 +399,7 @@
         {
             "id": 67,
             "question": "Who is the Norse god of the sky and thunder?",
-            "answer": "Thor",
+            "answer": "Thor was one of the most important and famous gods in Norse mythology. He was the son of Odin and Fyorgyn, the earth goddess. Thor was considered the storm-weather god of sky and thunder and also a fertility god. His wife was Sif, a goddess also linked to fertility",
             "category": "general"
         },
         {
@@ -3421,7 +3421,7 @@
             "id": 570
         },
         {
-            "question": "in the monty python parody 'search for the holy grail' what was the name of the enchanter",
+            "question": "In the Monty Python parody 'search for the holy grail' what was the name of the enchanter",
             "answer": "tim",
             "category": "movies",
             "id": 571
@@ -4715,6 +4715,282 @@
             "answer": "Surrealism",
             "category": "arts",
             "id": 786
-        }
+        },
+        {
+          "question": "What is 'SPAM' short for",
+          "answer": "Spiced Ham",
+          "category": "food",
+          "id": 787
+        },
+        {
+          "question": "An elephant is called a pachyderm what does it literally mean",
+          "answer": "thick skinned",
+          "category": "animals",
+          "id": 788
+        },
+        {
+          "question": "What adventurous penguin named Tennessee Tuxedo had sidekick named __________?",
+          "answer": "Chumley",
+          "category": "tv",
+          "id": 789
+        },
+        {
+          "question": "Which English writer divided his novel into 3 categories, Novels of Character and Environment, Romances and Fantasies, Novels of Ingenuity",
+          "answer": "Thomas Hardy",
+          "category": "arts",
+          "id": 790
+        },
+        {
+          "question": "By the end of 1983, how many computers were in use in the world",
+          "answer": "Thirteen million 13,000,000",
+          "category": "",
+          "id": 791
+        },
+        {
+          "question": "What star of 'The Breakfast Club' was part of the original cast of 'The Facts of Life'?",
+          "answer": "Molly Ringwald",
+          "category": "movies",
+          "id": 792
+        },
+        {
+          "question": "Which actress played the Queen Amidala's double in 'The Phanton Menace'?",
+          "answer": "Keira Knightly",
+          "category": "movies",
+          "id": 793
+        },
+        {
+          "question": "Of what is 'FM' an abbreviation in FM radio?",
+          "answer": "Frequency Modulation",
+          "category": "science",
+          "id": 794
+        },
+        {
+          "question": "The Great Gazoo was an alien in which cartoon series",
+          "answer": "The Flintstones",
+          "category": "tv",
+          "id": 795
+        },
+        {
+          "question": "What flavor is Kahlua?",
+          "answer": "Coffee",
+          "category": "food",
+          "id": 796
+        },
+        {
+          "question": "What is the biological name for the shin bone?",
+          "answer": "tibia",
+          "category": "science",
+          "id": 797
+        },
+        {
+          "question": "What was the nickname of Dr Leonard McCoy in the original 'Star Trek' series?",
+          "answer": "Bones",
+          "category": "tv",
+          "id": 798
+        },
+        {
+          "question": "In what sport is the Davis Cup awarded?",
+          "answer": "tennis",
+          "category": "sports",
+          "id": 799
+        },
+        {
+          "question": "Who was the actor who played Bobby Ewing in 'Dallas'?",
+          "answer": "Patrick Duffy",
+          "category": "tv",
+          "id": 800
+        },
+        {
+          "question": "Who created 'Horton' the elephant?",
+          "answer": "Dr. Seuss",
+          "category": "arts",
+          "id": 801
+        },
+        {
+          "question": "A poker hand consisting of three of a kind and a pair is called a what?",
+          "answer": "Full House",
+          "category": "sports",
+          "id": 802
+        },
+        {
+          "question": "How many floors are in the Empire State building?",
+          "answer": "102",
+          "category": "general",
+          "id": 803
+        },
+        {
+          "question": "What is Peter Parker's secret identity?",
+          "answer": "Spiderman",
+          "category": "arts",
+          "id": 804
+        },
+        {
+          "question": "Who is the first character to speak in 'Star Wars'?",
+          "answer": "C-3PO",
+          "category": "movies",
+          "id": 805
+        },
+        {
+          "question": "What country is Rugby originally from?",
+          "answer": "England",
+          "category": "sports",
+          "id": 806
+        },
+        {
+          "question": "What is the \"doneness\" of a steak if it is cooked blue (bleu)?",
+          "answer": "extra-rare",
+          "category": "food",
+          "id": 807
+        },
+        {
+          "question": "Identify this character from Kelly's Heroes'",
+          "answer": "Sgt. Oddball played by Donald Sutherland",
+          "category": "movies",
+          "id": 808
+        },
+        {
+          "question": "Which drink, invented in 1886, was first marketed as the 'Esteemed Brain Toic and Intellectual Beverage'?",
+          "answer": "Coca Cola",
+          "category": "food",
+          "id": 809
+        },
+        {
+          "question": "If you you had 2 eight-enders in one Bonspiel what are you playing?",
+          "answer": "Curling",
+          "category": "sports",
+          "id": 810
+        },
+        {
+          "question": "What make of car was the time-machine in the film 'Back to the Future'?",
+          "answer": "De Lorean",
+          "category": "autos",
+          "id": 811
+        },
+        {
+          "question": "Which machine was invented by the German Wilhelm Rontgen in 1895?",
+          "answer": "X-Rays",
+          "category": "science",
+          "id": 812
+        },
+        {
+          "question": "What is the Jack of Hearts holding up in a deck of cards",
+          "answer": "Leaf",
+          "category": "sports",
+          "id": 813
+        },
+        {
+          "question": "A group of whales is called what",
+          "answer": "pod",
+          "category": "animals",
+          "id": 814
+        },
+        {
+          "question": "In in 1990 series iTwin Peaks', what was the name of the secretary FBI Special Agent Dale Cooper dictated to in his tapes?",
+          "answer": "Diane (Evans)",
+          "category": "tv",
+          "id": 815
+        },
+        {
+          "question": "What is the most commin Venereal Disease",
+          "answer": "Gonorrhoea",
+          "category": "science",
+          "id": 816
+        },
+        {
+          "question": "Who sang that he was an \"Okie from Musogee\"",
+          "answer": "Merle Haggard",
+          "category": "music",
+          "id": 817
+        },
+        {
+          "question": "In 1952 PM Winston Churchill announced that Britain had its own",
+          "answer": "Atomic Bomb",
+          "category": "history",
+          "id": 818
+        },
+        {
+          "question": "Where's America's oldest zoo?",
+          "answer": "Philadelphia",
+          "category": "animals",
+          "id": 819
+        },
+        {
+          "question": "In Office Space, what does Peter steal from Initech that he takes to an open field to destroy?",
+          "answer": "a frequently malfunctioning printer.",
+          "category": "movies",
+          "id": 820
+        },
+        {
+          "question": "In Office Space, during what hours does Milton get to listen to the radio?",
+          "answer": "9-11",
+          "category": "movies",
+          "id": 821
+        },
+        {
+          "question": "In Office Space, what are THREE posters hanging in Michael and Samir's cubicle?",
+          "answer": "Snoop Dogg, Navy SEALs, Smooth Gangstar ",
+          "category": "movies",
+          "id": 822
+        },
+        {
+          "question": "In Office Space, what is Milton's last name?",
+          "answer": "Waddams. This is stated in the meeting between the Bobs, Dom and Lumbergh. The Bobs tell them that they've fixed the glitch that allowed Milton Waddams to continue receiving a paycheck.",
+          "category": "movies",
+          "id": 823
+        },
+        {
+          "question": "In Office Space, How many different bosses does Peter have at Initech?",
+          "answer": "8",
+          "category": "movies",
+          "id": 824
+        },
+        {
+          "question": "In Office Space, at the Initech employees' staff meeting, Lumbergh also announced that next Friday would be a special day of sorts. What day was it?",
+          "answer": "Hawaiian Shirt Day. At another staff meeting when the consultants, the Bobs, came in to review the company's efficiency. At that meeting, Lumbergh stood under a large banner that read \"Is This Good For the Company?\"",
+          "category": "movies",
+          "id": 825
+        },
+        {
+          "question": "Office Space was written and directed by the creator of which MTV cartoon?",
+          "answer": "Beavis and Butthead",
+          "category": "movies",
+          "id": 826
+        },
+        {
+          "question": "In Office Space, what is Michael Bolton's favorite type of music?",
+          "answer": "Gangster Rap",
+          "category": "movies",
+          "id": 827
+        },
+        {
+          "question": "In Office Space, Complete the repeated quote from the beginning of the movie: \"Corporate Accounts Payable, Nina speaking... ______\".",
+          "answer": "Just a moment",
+          "category": "movies",
+          "id": 828
+        },
+        {
+          "question": "In Office Space, who was Joanna's Chotchkie's boss, Stan?",
+          "answer": "Mike Judge",
+          "category": "movies",
+          "id": 829
+        },
+        {
+          "question": "In Office Space, what was Lumbergh's license plate?",
+          "answer": "Office Space was shot in Las Colinas and Austin, Texas, but the cars had custom-made 'USA' license plates on them. Lumbergh's read, 'MY PRSHE.'",
+          "category": "movies",
+          "id": 830
+        },
+        {
+          "question": "In Office Space, what are TPS reports?",
+          "answer": "Test Program Set reports",
+          "category": "movies",
+          "id": 831
+        },
+        {
+          "question": "What is Office Space based on?",
+          "answer": "Milton was a series of shorts Mike Judge created, wrote, animated, and voiced. It starred Milton Waddams, presumably when he was still technically working for Initech, and an early version of Lumbergh. The first episode (shown above) aired on MTV’s Liquid Television in 1991, alongside some other Judge shorts like The Honky Problem and Huh?. During the 1993-94 season of SNL, Milton made three more appearances",
+          "category": "movies",
+          "id": 832
+        }        
     ]
 }
