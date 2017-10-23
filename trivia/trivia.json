@@ -5381,6 +5381,18 @@
           "answer": "acid",
           "category": "science",
           "id": 898
-        }                
+        },
+        {
+          "question": "How much money was in the account when Peter checked it at the IniTech Employee Credit Union ATM?",
+          "answer": "$305,326.13",
+          "category": "movies",
+          "id": 899
+        },
+        {
+          "question": "In Office Spce, What was the Kung Fu channel?",
+          "answer": "39",
+          "category": "movies",
+          "id": 900
+        }                            
     ]
 }
