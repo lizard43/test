@@ -4991,6 +4991,396 @@
           "answer": "Milton was a series of shorts Mike Judge created, wrote, animated, and voiced. It starred Milton Waddams, presumably when he was still technically working for Initech, and an early version of Lumbergh. The first episode (shown above) aired on MTV’s Liquid Television in 1991, alongside some other Judge shorts like The Honky Problem and Huh?. During the 1993-94 season of SNL, Milton made three more appearances",
           "category": "movies",
           "id": 832
-        }        
+        },
+        {
+          "question": "Name the author of Frankenstein",
+          "answer": "Mary Shelley",
+          "category": "arts",
+          "id": 833
+        },
+        {
+          "question": "Ursula is the name of the villain in white Disney film?",
+          "answer": "Little Mermaid",
+          "category": "movies",
+          "id": 834
+        },
+        {
+          "question": "\"Office Space\" was written and directed by the creator of which MTV cartoon?",
+          "answer": "Beavis and Butthead",
+          "category": "movies",
+          "id": 835
+        },
+        {
+          "question": "What is measured on the Mohs scale?",
+          "answer": "hardness of minerals",
+          "category": "science",
+          "id": 836
+        },
+        {
+          "question": "The Welland Canal links Lake Erie to which other of the Great Lakes?",
+          "answer": "Lake Ontario",
+          "category": "geography",
+          "id": 837
+        },
+        {
+          "question": "What film was the last featuring Mel Blanc's voice?",
+          "answer": "Jetsons",
+          "category": "movies",
+          "id": 838
+        },
+        {
+          "question": "How many dimples does a golf ball have?",
+          "answer": "336",
+          "category": "sports",
+          "id": 839
+        },
+        {
+          "question": "\"What is the connection between \"Comet\", \"Cupid\" and \"Vixen\"?\"",
+          "answer": "All names of Santa's reindeers",
+          "category": "general",
+          "id": 840
+        },
+        {
+          "question": "How many pounds does the Olympic hammer weigh?",
+          "answer": "16",
+          "category": "sports",
+          "id": 841
+        },
+        {
+          "question": "What kind of peach has a smooth skin",
+          "answer": "Nectarine",
+          "category": "food",
+          "id": 842
+        },
+        {
+          "question": "According to rules of both sports, the top of which net is highest from the ground, Tennis or Table Tennis?",
+          "answer": "tennis",
+          "category": "sports",
+          "id": 843
+        },
+        {
+          "question": "In What Game Might You Get A Cannon?",
+          "answer": "billards or snooker",
+          "category": "sports",
+          "id": 844
+        },
+        {
+          "question": "What famous artist could write with both his left and right hands at the same time?",
+          "answer": "Leonardo Da Vinci",
+          "category": "arts",
+          "id": 845
+        },
+        {
+          "question": "In the movie \"Office Space\", how many pieces of flare does Brian wear at Chotchkee's?",
+          "answer": "37",
+          "category": "movies",
+          "id": 846
+        },
+        {
+          "question": "Which Sport Was Inroduced Into The Olympic Games In 1988?",
+          "answer": "tennis",
+          "category": "sports",
+          "id": 847
+        },
+        {
+          "question": "Who Became World Heavyweight Boxing Champion By Beating Ken Norton After Muhammad Ali Retired In 1979?",
+          "answer": "Larry Holms",
+          "category": "sports",
+          "id": 848
+        },
+        {
+          "question": "Where will you find the character \"Jake the Jailbird\"?",
+          "answer": "On a Monopoly board",
+          "category": "sports",
+          "id": 849
+        },
+        {
+          "question": "In Which Game Might You Castle?",
+          "answer": "chess",
+          "category": "sports",
+          "id": 850
+        },
+        {
+          "question": "From Which Fish Do You Obtain Caviar?",
+          "answer": "Sturgeon",
+          "category": "food",
+          "id": 851
+        },
+        {
+          "question": "Which food crop does the Colorado beetle most often attack?",
+          "answer": "Potato",
+          "category": "food",
+          "id": 852
+        },
+        {
+          "question": "By law every fifth song on Canadian radio must be what",
+          "answer": "by a Canadian",
+          "category": "music",
+          "id": 853
+        },
+        {
+          "question": "What is the most expensive type of Bottled Brandy?",
+          "answer": "cognac",
+          "category": "food",
+          "id": 854
+        },
+        {
+          "question": "If a doctor says you have ecchymosis what have you got?",
+          "answer": "a bruise",
+          "category": "science",
+          "id": 855
+        },
+        {
+          "question": "What were the two major crops used by the Aztecs ?",
+          "answer": "maize (corn) and Amaranth",
+          "category": "food",
+          "id": 856
+        },
+        {
+          "question": "In Wallace and Grommit’s ‘The Wrong Trousers’, what is the name of the penguin who steals the trousers?",
+          "answer": "Feathers McGraw",
+          "category": "movies",
+          "id": 857
+        },
+        {
+          "question": "Which breed of dog, if any, have colour vision?",
+          "answer": "none",
+          "category": "animal",
+          "id": 858
+        },
+        {
+          "question": "Clams have a row of __________ around their shells.?",
+          "answer": "eyes",
+          "category": "animal",
+          "id": 859
+        },
+        {
+          "question": "In one year, hens in America lay enough eggs to encircle the globe a __________?",
+          "answer": "100 times",
+          "category": "animal",
+          "id": 860
+        },
+        {
+          "question": "The __________ eats nothing but eucalyptus leaves.?",
+          "answer": "Koala",
+          "category": "animal",
+          "id": 861
+        },
+        {
+          "question": "What color is the bull on an archery target?",
+          "answer": "yellow / gold",
+          "category": "sports",
+          "id": 862
+        },
+        {
+          "question": "In Korea, the deer is a symbol of long life, and is often portrayed in the company of __________?",
+          "answer": "immortals",
+          "category": "animal",
+          "id": 863
+        },
+        {
+          "question": "What is the scientific name for a turkey’s wishbone?",
+          "answer": "Furcula",
+          "category": "animal",
+          "id": 864
+        },
+        {
+          "question": "Name the character played by John Cleese in “A Fish called Wanda”?",
+          "answer": "Archie Leach",
+          "category": "movies",
+          "id": 865
+        },
+        {
+          "question": "Eric Claudin is better known by which eponymous title?",
+          "answer": "Phantom of the Opera",
+          "category": "arts",
+          "id": 866
+        },
+        {
+          "question": "How Many Bones Are There In The Adult Human Body?",
+          "answer": "206 bones",
+          "category": "science",
+          "id": 867
+        },
+        {
+          "question": "What was the name of the owner of the talking horse, Mr. Ed on TV",
+          "answer": "Wilbur Post",
+          "category": "tv",
+          "id": 868
+        },
+        {
+          "question": "Which fruit has the latin name of malus oumila?",
+          "answer": "apple",
+          "category": "food",
+          "id": 869
+        },
+        {
+          "question": "Name The SI Unit Of Pressure?",
+          "answer": "Pascal",
+          "category": "science",
+          "id": 870
+        },
+        {
+          "question": "Born Georgios Panayiotou in England in 1963, by what name is this singer better known",
+          "answer": "George Michael",
+          "category": "music",
+          "id": 871
+        },
+        {
+          "question": "What Is A Number Called That Is Equal To The Sum Of All The Numbers By Which It Is Divisible?",
+          "answer": "A Pefect Number",
+          "category": "science",
+          "id": 872
+        },
+        {
+          "question": "In Greek mythology, Europa was the mother of ______?",
+          "answer": "Mino",
+          "category": "arts",
+          "id": 873
+        },
+        {
+          "question": "What does the name Dracula mean in Romanian?",
+          "answer": "Son of the Devil",
+          "category": "arts",
+          "id": 874
+        },
+        {
+          "question": "Which of the following types of beer is considered a Spring Ber - Bock, Pilsner or Lager?",
+          "answer": "Bock",
+          "category": "food",
+          "id": 875
+        },
+        {
+          "question": "What is considered to be the least nutritious fruit or vegetable?",
+          "answer": "Cucumber",
+          "category": "food",
+          "id": 876
+        },
+        {
+          "question": "What shape is Millerighi pasta?",
+          "answer": "tubes",
+          "category": "food",
+          "id": 877
+        },
+        {
+          "question": "What kind of gun does the movie's Dirty Harry pack",
+          "answer": "44 magnum",
+          "category": "movies",
+          "id": 878
+        },
+        {
+          "question": "Nyctophobia is the fear of?",
+          "answer": "The dark night",
+          "category": "general",
+          "id": 879
+        },
+        {
+          "question": "In which branch of science are monocotyledon and dicotyledon terms?",
+          "answer": "Botany",
+          "category": "science",
+          "id": 880
+        },
+        {
+          "question": "A character in \"Office Space\" shares his name wiith what famous singer?",
+          "answer": "Michael Bolton",
+          "category": "movies",
+          "id": 881
+        },
+        {
+          "question": "Sardines are the young of which fish",
+          "answer": "Pilchard",
+          "category": "food",
+          "id": 882
+        },
+        {
+          "question": "What is the most chemically complex food – over 300 chemicals?",
+          "answer": "chocolate",
+          "category": "food",
+          "id": 883
+        },
+        {
+          "question": "What Is The Scientific Study Of Birds Called?",
+          "answer": "Ornithology",
+          "category": "science",
+          "id": 884
+        },
+        {
+          "question": "Which is the largest museum in the world?",
+          "answer": "Louvre",
+          "category": "arts",
+          "id": 885
+        },
+        {
+          "question": "Of what is keratitis an inflammation?",
+          "answer": "cornea",
+          "category": "science",
+          "id": 886
+        },
+        {
+          "question": "In Which Year Was The Boeing 747 Put Into Regular Service?",
+          "answer": "1970",
+          "category": "general",
+          "id": 887
+        },
+        {
+          "question": "Who hit a golf shot on the moon?",
+          "answer": "Alan Shepard",
+          "category": "history",
+          "id": 889
+        },
+        {
+          "question": "In Computing what do the initials Jpeg stand for?",
+          "answer": "Joint Photographic Experts Group",
+          "category": "science",
+          "id": 890
+        },
+        {
+          "question": "What are the units of measurement for Energy ?",
+          "answer": "Joule",
+          "category": "science",
+          "id": 891
+        },
+        {
+          "question": "Which Animal Has Young Called Elver?",
+          "answer": "The Eel",
+          "category": "animal",
+          "id": 892
+        },
+        {
+          "question": "What is the extinct animal Megantheron better known as?",
+          "answer": "Sabre Tooth Tiger",
+          "category": "animal",
+          "id": 893
+        },
+        {
+          "question": "What was Bretts last supper in the film Pulp Fiction ? (food and beverage)?",
+          "answer": "A Big Kahuna (cheese)burger and Sprite",
+          "category": "movies",
+          "id": 894
+        },
+        {
+          "question": "Which metal is the best conductor of electricity?",
+          "answer": "silver",
+          "category": "science",
+          "id": 895
+        },
+        {
+          "question": "Aspirin was originally obtained from the bark of which tree?",
+          "answer": "willow",
+          "category": "science",
+          "id": 896
+        },
+        {
+          "question": "A male __________ that has been neutered is known as a \"wether.\"?",
+          "answer": "goat",
+          "category": "animal",
+          "id": 897
+        },
+        {
+          "question": "What is it that turns blue litmus paper red?",
+          "answer": "acid",
+          "category": "science",
+          "id": 898
+        }                
     ]
 }
