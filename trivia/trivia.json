@@ -5393,6 +5393,126 @@
           "answer": "39",
           "category": "movies",
           "id": 900
-        }                            
+        },
+        {
+          "question": "Who invented dynamite?",
+          "answer": "Alfred Nobel",
+          "category": "science",
+          "id": 901
+        },
+        {
+          "question": "What group members refused to allow their pictures taken while they were not in their makeup?",
+          "answer": "Kiss",
+          "category": "music",
+          "id": 902
+        },
+        {
+          "question": "A person that stuffs animals for a living is a(n) ________.",
+          "answer": "Taxidermist",
+          "category": "animals",
+          "id": 903
+        },
+        {
+          "question": "How much is 1000000 in binary?",
+          "answer": "64",
+          "category": "science",
+          "id": 904
+        },
+        {
+          "question": "What was the nationality of Marco Polo?",
+          "answer": "Italian",
+          "category": "history",
+          "id": 905
+        },
+        {
+          "question": "Every July 27th \"Grgax Day\" fans around the world celebrate the creator of this iconic game.",
+          "answer": "Dungeons and Dragons",
+          "category": "sports",
+          "id": 906
+        },
+        {
+          "question": "In which city is the Hockey Hall of Fame located",
+          "answer": "Toronto",
+          "category": "sports",
+          "id": 907
+        },
+        {
+          "question": "Name the fabulous winged horse of Greek mythology?",
+          "answer": "Pegasus",
+          "category": "arts",
+          "id": 908
+        },
+        {
+          "question": "Who is the Norse God of Mischief",
+          "answer": "Loki",
+          "category": "arts",
+          "id": 909
+        },
+        {
+          "question": "What was the name of the Eminem single that set the World's record in 2013 for the most words used in a song?",
+          "answer": "Rap God",
+          "category": "music",
+          "id": 910
+        },
+        {
+          "question": "What are the names of the Teenage Ninja Turtles in alphabetical order?",
+          "answer": "Donatello, Leonardo, Michelangelo, Raphael",
+          "category": "movies",
+          "id": 911
+        },
+        {
+          "question": "In HG Well \"The Time Machine\", two races of the futire ar the child-like Eloi, and the subterranean monsters call the ____?",
+          "answer": "Morlocks",
+          "category": "arts",
+          "id": 912
+        },
+        {
+          "question": "Who holds the MLB record for consecutive games played?",
+          "answer": "Cal Ripken Jr 2,632 consecutive games",
+          "category": "sports",
+          "id": 913
+        },
+        {
+          "question": "Codeine, Fentanyl, Morphine, and Oxycodone all fall into what category of pain releivers?",
+          "answer": "Opiods (Opiates)",
+          "category": "science",
+          "id": 914
+        },
+        {
+          "question": "What flavor did Baskin Robbins introduce to commemerate America's landing on the moon on July 20, 1969?",
+          "answer": "Lunar Cheesecake",
+          "category": "food",
+          "id": 915
+        },
+        {
+          "question": "What crop is attacked by the Colorado Beatle?",
+          "answer": "Potato",
+          "category": "food",
+          "id": 916
+        },
+        {
+          "question": "What occurs in September and December more than any other month",
+          "answer": "Letter E",
+          "category": "sports",
+          "id": 917
+        },
+        {
+          "question": "What was the first printed book?",
+          "answer": "The Bible",
+          "category": "history",
+          "id": 918
+        },
+        {
+          "question": "Green Day released the band's first major-label album in 1994. What was its name?",
+          "answer": "Dookie",
+          "category": "music",
+          "id": 919
+        },
+        {
+          "question": "In the movie Office Space, how much money was in the account when Peter checked it at the ATM?",
+          "answer": "$305,326.13",
+          "category": "movies",
+          "id": 920
+        }
     ]
 }
