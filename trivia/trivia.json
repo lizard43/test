@@ -5963,6 +5963,126 @@
             "answer": "Vanilla Ice",
             "category": "music",
             "id": 994
+        },
+        {
+            "question": "In Halloween, what is Michael Myers' middle name?",
+            "answer": "Aubrey",
+            "category": "movies",
+            "id": 995
+        },
+        {
+            "question": "Who was the last astronaut to orbit the moon alone?",
+            "answer": "Ron Evans Appollo 17 while Eugene Cernan and Harrison Schmitt landed on the moon",
+            "category": "history",
+            "id": 996
+        },
+        {
+            "question": "Which drink was created when Indian Army officers added quinine to soda water to help fight Malaria?",
+            "answer": "Tonic water",
+            "category": "food",
+            "id": 997
+        },
+        {
+            "question": "What sport is referenced by the word Toxophily?",
+            "answer": "Archery",
+            "category": "sports",
+            "id": 998
+        },
+        {
+            "question": "Fourth letter of the Greek alphabet",
+            "answer": "Delta",
+            "category": "arts",
+            "id": 999
+        },
+        {
+            "question": "In which war did Ulysses Grant and Robert Lee fight on the same side?",
+            "answer": "Mexican-American War",
+            "category": "history",
+            "id": 1000
+        },
+        {
+            "question": "Which triology of movies had the 3rd installation titled 'The Final Insult'?",
+            "answer": "Naked Gun 33 1/3: The Final Insult",
+            "category": "movies",
+            "id": 1001
+        },
+        {
+            "question": "What famous Halloween party game originated from the custom of foretelling which player would be the next to get married?",
+            "answer": "Bobbing for Apples",
+            "category": "history",
+            "id": 1002
+        },
+        {
+            "question": "In what 1984 film, did a young man named Jack, receive a Mogwai for Christmas?",
+            "answer": "Gremlins",
+            "category": "movies",
+            "id": 1003
+        },
+        {
+            "question": "In a bunch, individuals are called what?",
+            "answer": "fingers",
+            "category": "general",
+            "id": 1004
+        },
+        {
+            "question": "In which sport would you encounter the terms: Hambone, Bed Posts, Cherry and Kingpin?",
+            "answer": "bowling",
+            "category": "sports",
+            "id": 1005
+        },
+        {
+            "question": "Legendary magician Harry Houdini died in Detroit on Halloween in 1926 - from what?",
+            "answer": "A ruptured appendix, possibly after being punched in the stomach",
+            "category": "history",
+            "id": 1006
+        },
+        {
+            "question": "Who wrote 'Alice in Wonderland'?",
+            "answer": "Lewis Carroll",
+            "category": "arts",
+            "id": 1007
+        },
+        {
+            "question": "What is the traditional gift for a sixth wedding anniversary?",
+            "answer": "Iron",
+            "category": "general",
+            "id": 1008
+        },
+        {
+            "question": "Who is Samuel Clemons better known as?",
+            "answer": "Mark Twain",
+            "category": "arts",
+            "id": 1009
+        },
+        {
+            "question": "In the film 'Halloween', for how many years was Michael Myers in an asylum before he escaped?",
+            "answer": "15 years",
+            "category": "movies",
+            "id": 1010
+        },
+        {
+            "question": "What is the name of the main character in Homer's Odyssey?",
+            "answer": "Odysseus",
+            "category": "arts",
+            "id": 1011
+        },
+        {
+            "question": "In which city was the first Super Bowl held?",
+            "answer": "Los Angeles",
+            "category": "sports",
+            "id": 1012
+        },
+        {
+            "question": "What is the name of the instrument used for measuring humidity in the air?",
+            "answer": "Hygrometer",
+            "category": "science",
+            "id": 1013
+        },
+        {
+            "question": "In rhythmic gymnastics, competitors have 4 peices of aparatus; rope, hoop and ball. What is the other piece?",
+            "answer": "Ribbon",
+            "category": "sports",
+            "id": 1014
         }
     ]
 }
